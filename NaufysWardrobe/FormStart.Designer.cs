@@ -18,18 +18,22 @@
             // 
             // btnStart
             // 
+            // Center the button: 
+            // 1024/2=512, 512-60=452 for X, 
+            // 768/2=384, 384-25=359 for Y
             this.btnStart.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.btnStart.Location = new System.Drawing.Point(100, 50);
+            this.btnStart.Location = new System.Drawing.Point(452, 359);
             this.btnStart.Name = "btnStart";
             this.btnStart.Size = new System.Drawing.Size(120, 50);
             this.btnStart.TabIndex = 0;
             this.btnStart.Text = "Start";
             this.btnStart.UseVisualStyleBackColor = true;
+            // Reattach the event handler:
             this.btnStart.Click += new System.EventHandler(this.btnStart_Click);
             // 
             // FormStart
             // 
-            this.ClientSize = new System.Drawing.Size(320, 150);
+            this.ClientSize = new System.Drawing.Size(1024, 768);
             this.Controls.Add(this.btnStart);
             this.Name = "FormStart";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;

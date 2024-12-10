@@ -50,94 +50,104 @@
             ((System.ComponentModel.ISupportInitialize)(this.picPlayerShoes)).BeginInit();
             this.SuspendLayout();
             // 
-            // Original Character (Left)
+            // FormResult
             // 
-            this.picCharacterBaseOri.Location = new System.Drawing.Point(50, 30);
-            this.picCharacterBaseOri.Size = new System.Drawing.Size(200, 300);
+            this.ClientSize = new System.Drawing.Size(1024, 768);
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.Text = "Result";
+            this.Load += new System.EventHandler(this.FormResult_Load);
+
+            // Original Character
+            this.picCharacterBaseOri.Location = new System.Drawing.Point(150, 100);
+            this.picCharacterBaseOri.Size = new System.Drawing.Size(300, 450);
             this.picCharacterBaseOri.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
 
-            this.picOriHat.Location = new System.Drawing.Point(90, 40);
-            this.picOriHat.Size = new System.Drawing.Size(60, 60);
+            this.picOriHat.Location = new System.Drawing.Point(170, 90);
+            this.picOriHat.Size = new System.Drawing.Size(260, 80);
             this.picOriHat.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.picOriHat.BackColor = System.Drawing.Color.Transparent;
 
-            this.picOriShirt.Location = new System.Drawing.Point(80, 120);
-            this.picOriShirt.Size = new System.Drawing.Size(80, 80);
+            this.picOriShirt.Location = new System.Drawing.Point(160, 220);
+            this.picOriShirt.Size = new System.Drawing.Size(280, 140);
             this.picOriShirt.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.picOriShirt.BackColor = System.Drawing.Color.Transparent;
 
-            this.picOriPants.Location = new System.Drawing.Point(85, 200);
-            this.picOriPants.Size = new System.Drawing.Size(70, 70);
+            this.picOriPants.Location = new System.Drawing.Point(165, 360);
+            this.picOriPants.Size = new System.Drawing.Size(270, 110);
             this.picOriPants.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.picOriPants.BackColor = System.Drawing.Color.Transparent;
 
-            this.picOriShoes.Location = new System.Drawing.Point(90, 270);
-            this.picOriShoes.Size = new System.Drawing.Size(60, 40);
+            this.picOriShoes.Location = new System.Drawing.Point(170, 470);
+            this.picOriShoes.Size = new System.Drawing.Size(260, 70);
             this.picOriShoes.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.picOriShoes.BackColor = System.Drawing.Color.Transparent;
 
-            // 
-            // Player Character (Right)
-            // 
-            this.picCharacterBasePlayer.Location = new System.Drawing.Point(300, 30);
-            this.picCharacterBasePlayer.Size = new System.Drawing.Size(200, 300);
+            // Player Character
+            this.picCharacterBasePlayer.Location = new System.Drawing.Point(550, 100);
+            this.picCharacterBasePlayer.Size = new System.Drawing.Size(300, 450);
             this.picCharacterBasePlayer.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
 
-            this.picPlayerHat.Location = new System.Drawing.Point(340, 40);
-            this.picPlayerHat.Size = new System.Drawing.Size(60, 60);
+            this.picPlayerHat.Location = new System.Drawing.Point(570, 90);
+            this.picPlayerHat.Size = new System.Drawing.Size(260, 80);
             this.picPlayerHat.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.picPlayerHat.BackColor = System.Drawing.Color.Transparent;
 
-            this.picPlayerShirt.Location = new System.Drawing.Point(330, 120);
-            this.picPlayerShirt.Size = new System.Drawing.Size(80, 80);
+            this.picPlayerShirt.Location = new System.Drawing.Point(560, 220);
+            this.picPlayerShirt.Size = new System.Drawing.Size(280, 140);
             this.picPlayerShirt.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.picPlayerShirt.BackColor = System.Drawing.Color.Transparent;
 
-            this.picPlayerPants.Location = new System.Drawing.Point(335, 200);
-            this.picPlayerPants.Size = new System.Drawing.Size(70, 70);
+            this.picPlayerPants.Location = new System.Drawing.Point(565, 360);
+            this.picPlayerPants.Size = new System.Drawing.Size(270, 110);
             this.picPlayerPants.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.picPlayerPants.BackColor = System.Drawing.Color.Transparent;
 
-            this.picPlayerShoes.Location = new System.Drawing.Point(340, 270);
-            this.picPlayerShoes.Size = new System.Drawing.Size(60, 40);
+            this.picPlayerShoes.Location = new System.Drawing.Point(570, 470);
+            this.picPlayerShoes.Size = new System.Drawing.Size(260, 70);
             this.picPlayerShoes.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.picPlayerShoes.BackColor = System.Drawing.Color.Transparent;
 
-            // 
-            // lblScore
-            // 
-            this.lblScore.Location = new System.Drawing.Point(200, 350);
+            this.lblScore.Location = new System.Drawing.Point(362, 600);
+            // (1024 / 2) = 512, 512 - 150 = 362
             this.lblScore.AutoSize = true;
             this.lblScore.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold);
-            // 
-            // btnRestart
-            // 
-            this.btnRestart.Location = new System.Drawing.Point(220, 380);
-            this.btnRestart.Size = new System.Drawing.Size(80, 30);
+
+            this.btnRestart.Location = new System.Drawing.Point(462, 650);
+            // (1024 / 2) = 512, 512 - 150 = 362
+            this.btnRestart.Size = new System.Drawing.Size(100, 40);
             this.btnRestart.Text = "Restart";
             this.btnRestart.Click += new System.EventHandler(this.btnRestart_Click);
 
-            // 
-            // FormResult
-            // 
-            this.ClientSize = new System.Drawing.Size(600, 450);
+            // Add all controls
+            this.Controls.Add(this.picCharacterBaseOri);
             this.Controls.Add(this.picOriHat);
             this.Controls.Add(this.picOriShirt);
             this.Controls.Add(this.picOriPants);
             this.Controls.Add(this.picOriShoes);
-            this.Controls.Add(this.picCharacterBaseOri);
 
+            this.Controls.Add(this.picCharacterBasePlayer);
             this.Controls.Add(this.picPlayerHat);
             this.Controls.Add(this.picPlayerShirt);
             this.Controls.Add(this.picPlayerPants);
             this.Controls.Add(this.picPlayerShoes);
-            this.Controls.Add(this.picCharacterBasePlayer);
 
             this.Controls.Add(this.lblScore);
             this.Controls.Add(this.btnRestart);
-            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Result";
-            this.Load += new System.EventHandler(this.FormResult_Load);
+
+            // Adjust layering
+            this.picCharacterBaseOri.SendToBack();
+            this.picCharacterBasePlayer.SendToBack();
+
+            this.picOriHat.BringToFront();
+            this.picOriShirt.BringToFront();
+            this.picOriPants.BringToFront();
+            this.picOriShoes.BringToFront();
+
+            this.picPlayerHat.BringToFront();
+            this.picPlayerShirt.BringToFront();
+            this.picPlayerPants.BringToFront();
+            this.picPlayerShoes.BringToFront();
+
             ((System.ComponentModel.ISupportInitialize)(this.picCharacterBaseOri)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.picOriHat)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.picOriShirt)).EndInit();

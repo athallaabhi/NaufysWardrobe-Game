@@ -12,6 +12,8 @@ namespace NaufysWardrobeWinForms
         public FormResult(Game currentGame)
         {
             InitializeComponent();
+
+           
             game = currentGame;
         }
 

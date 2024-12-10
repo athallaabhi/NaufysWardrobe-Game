@@ -16,3 +16,5 @@ C:\Users\Athalla\source\repos\NaufysWardrobe\NaufysWardrobe\bin\Debug\Images\Shi
 C:\Users\Athalla\source\repos\NaufysWardrobe\NaufysWardrobe\bin\Debug\Images\Shirts\shirt2.png
 C:\Users\Athalla\source\repos\NaufysWardrobe\NaufysWardrobe\bin\Debug\Images\Shoes\shoes1.png
 C:\Users\Athalla\source\repos\NaufysWardrobe\NaufysWardrobe\bin\Debug\Images\Shoes\shoes2.png
+C:\Users\Athalla\source\repos\NaufysWardrobe\NaufysWardrobe\obj\Debug\NaufysWardrobeWinForms.FormGame.resources
+C:\Users\Athalla\source\repos\NaufysWardrobe\NaufysWardrobe\obj\Debug\NaufysWardrobeWinForms.FormResult.resources

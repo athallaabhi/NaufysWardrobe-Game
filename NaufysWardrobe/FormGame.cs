@@ -1,7 +1,6 @@
 ﻿using System;
 using System.IO;
 using System.Windows.Forms;
-using NaufysWardrobe;
 using NaufysWardrobeWinForms.Models;
 
 namespace NaufysWardrobeWinForms
@@ -14,6 +13,8 @@ namespace NaufysWardrobeWinForms
         public FormGame(Game currentGame)
         {
             InitializeComponent();
+
+           
             game = currentGame;
         }
 
@@ -39,7 +40,7 @@ namespace NaufysWardrobeWinForms
             // Load the base character first
             LoadImage(picCharacterBase, "Images/characterBase.png");
 
-            // Now load each clothing item positioned over the character
+            // Now load each clothing item
             LoadImage(picHat, game.OriginalOutfit.Hat.ImagePath);
             LoadImage(picShirt, game.OriginalOutfit.Shirt.ImagePath);
             LoadImage(picPants, game.OriginalOutfit.Pants.ImagePath);
@@ -50,6 +51,11 @@ namespace NaufysWardrobeWinForms
         {
             if (File.Exists(path))
                 pb.Image = System.Drawing.Image.FromFile(path);
+        }
+
+        private void picHat_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

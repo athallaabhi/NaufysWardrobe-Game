@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Windows.Forms;
-using NaufysWardrobe;
 using NaufysWardrobeWinForms.Models;
 
 namespace NaufysWardrobeWinForms
@@ -10,6 +9,7 @@ namespace NaufysWardrobeWinForms
         public FormStart()
         {
             InitializeComponent();
+
         }
 
         private void btnStart_Click(object sender, EventArgs e)

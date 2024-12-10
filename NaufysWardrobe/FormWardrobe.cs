@@ -14,6 +14,7 @@ namespace NaufysWardrobeWinForms
         public FormWardrobe(Game currentGame)
         {
             InitializeComponent();
+
             game = currentGame;
         }
 
@@ -78,7 +79,6 @@ namespace NaufysWardrobeWinForms
             this.Close();
         }
 
-        // Event handlers for when user changes the selected item
         private void cmbHat_SelectedIndexChanged(object sender, EventArgs e)
         {
             UpdateSelectedItemImage(cmbHat, game.Wardrobe.Hats, picSelectedHat);
