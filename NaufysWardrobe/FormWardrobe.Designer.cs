@@ -67,13 +67,13 @@
             this.cmbShirt.SelectedIndexChanged += new System.EventHandler(this.cmbShirt_SelectedIndexChanged);
 
             this.cmbPants.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
-            this.cmbPants.Location = new System.Drawing.Point(100 + (comboWidth + spacing) * 2, topRowY);
+            this.cmbPants.Location = new System.Drawing.Point(460, topRowY); // (100 + (comboWidth + spacing) * 2, topRowY)
             this.cmbPants.Size = new System.Drawing.Size(comboWidth, comboHeight);
             // Add event
             this.cmbPants.SelectedIndexChanged += new System.EventHandler(this.cmbPants_SelectedIndexChanged);
 
             this.cmbShoes.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
-            this.cmbShoes.Location = new System.Drawing.Point(100 + (comboWidth + spacing) * 3, topRowY);
+            this.cmbShoes.Location = new System.Drawing.Point(640, topRowY); //(100 + (comboWidth + spacing) * 3)
             this.cmbShoes.Size = new System.Drawing.Size(comboWidth, comboHeight);
             // Add event
             this.cmbShoes.SelectedIndexChanged += new System.EventHandler(this.cmbShoes_SelectedIndexChanged);
@@ -82,7 +82,7 @@
             this.lblTimer.AutoSize = true;
             this.lblTimer.Text = "Time left: 30s";
 
-            this.btnDone.Location = new System.Drawing.Point((1024 / 2) - 50, 700);
+            this.btnDone.Location = new System.Drawing.Point(462, 700); //((1024 / 2) - 50, 700)
             this.btnDone.Size = new System.Drawing.Size(100, 40);
             this.btnDone.Text = "Done";
             // Add event if previously existed
@@ -99,11 +99,11 @@
             this.picSelectedShirt.Size = new System.Drawing.Size(imgSize, imgSize);
             this.picSelectedShirt.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
 
-            this.picSelectedPants.Location = new System.Drawing.Point(100 + (comboWidth + spacing) * 2, imgTop);
+            this.picSelectedPants.Location = new System.Drawing.Point(460, imgTop); //(100 + (comboWidth + spacing) * 2, imgTop)
             this.picSelectedPants.Size = new System.Drawing.Size(imgSize, imgSize);
             this.picSelectedPants.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
 
-            this.picSelectedShoes.Location = new System.Drawing.Point(100 + (comboWidth + spacing) * 3, imgTop);
+            this.picSelectedShoes.Location = new System.Drawing.Point(640, imgTop); //100 + (comboWidth + spacing) * 3
             this.picSelectedShoes.Size = new System.Drawing.Size(imgSize, imgSize);
             this.picSelectedShoes.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
 

@@ -3,23 +3,31 @@
   "WorkspaceRootPath": "C:\\Users\\Athalla\\source\\repos\\NaufysWardrobe\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{55DC49FD-8B4E-4DD4-BEF0-33D28D04B953}|NaufysWardrobe\\NaufysWardrobe.csproj|c:\\users\\athalla\\source\\repos\\naufyswardrobe\\naufyswardrobe\\formwardrobe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{55DC49FD-8B4E-4DD4-BEF0-33D28D04B953}|NaufysWardrobe\\NaufysWardrobe.csproj|solutionrelative:naufyswardrobe\\formwardrobe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55DC49FD-8B4E-4DD4-BEF0-33D28D04B953}|NaufysWardrobe\\NaufysWardrobe.csproj|C:\\Users\\Athalla\\source\\repos\\NaufysWardrobe\\naufyswardrobe\\formwardrobe.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55DC49FD-8B4E-4DD4-BEF0-33D28D04B953}|NaufysWardrobe\\NaufysWardrobe.csproj|solutionrelative:naufyswardrobe\\formwardrobe.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55DC49FD-8B4E-4DD4-BEF0-33D28D04B953}|NaufysWardrobe\\NaufysWardrobe.csproj|c:\\users\\athalla\\source\\repos\\naufyswardrobe\\naufyswardrobe\\formstart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{55DC49FD-8B4E-4DD4-BEF0-33D28D04B953}|NaufysWardrobe\\NaufysWardrobe.csproj|solutionrelative:naufyswardrobe\\formstart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55DC49FD-8B4E-4DD4-BEF0-33D28D04B953}|NaufysWardrobe\\NaufysWardrobe.csproj|C:\\Users\\Athalla\\source\\repos\\NaufysWardrobe\\naufyswardrobe\\formgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{55DC49FD-8B4E-4DD4-BEF0-33D28D04B953}|NaufysWardrobe\\NaufysWardrobe.csproj|solutionrelative:naufyswardrobe\\formgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{55DC49FD-8B4E-4DD4-BEF0-33D28D04B953}|NaufysWardrobe\\NaufysWardrobe.csproj|c:\\users\\athalla\\source\\repos\\naufyswardrobe\\naufyswardrobe\\formresult.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{55DC49FD-8B4E-4DD4-BEF0-33D28D04B953}|NaufysWardrobe\\NaufysWardrobe.csproj|solutionrelative:naufyswardrobe\\formresult.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55DC49FD-8B4E-4DD4-BEF0-33D28D04B953}|NaufysWardrobe\\NaufysWardrobe.csproj|c:\\users\\athalla\\source\\repos\\naufyswardrobe\\naufyswardrobe\\formgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{55DC49FD-8B4E-4DD4-BEF0-33D28D04B953}|NaufysWardrobe\\NaufysWardrobe.csproj|solutionrelative:naufyswardrobe\\formgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55DC49FD-8B4E-4DD4-BEF0-33D28D04B953}|NaufysWardrobe\\NaufysWardrobe.csproj|c:\\users\\athalla\\source\\repos\\naufyswardrobe\\naufyswardrobe\\formwardrobe.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55DC49FD-8B4E-4DD4-BEF0-33D28D04B953}|NaufysWardrobe\\NaufysWardrobe.csproj|solutionrelative:naufyswardrobe\\formwardrobe.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55DC49FD-8B4E-4DD4-BEF0-33D28D04B953}|NaufysWardrobe\\NaufysWardrobe.csproj|c:\\users\\athalla\\source\\repos\\naufyswardrobe\\naufyswardrobe\\formgame.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{55DC49FD-8B4E-4DD4-BEF0-33D28D04B953}|NaufysWardrobe\\NaufysWardrobe.csproj|C:\\Users\\Athalla\\source\\repos\\NaufysWardrobe\\naufyswardrobe\\formgame.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{55DC49FD-8B4E-4DD4-BEF0-33D28D04B953}|NaufysWardrobe\\NaufysWardrobe.csproj|solutionrelative:naufyswardrobe\\formgame.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55DC49FD-8B4E-4DD4-BEF0-33D28D04B953}|NaufysWardrobe\\NaufysWardrobe.csproj|c:\\users\\athalla\\source\\repos\\naufyswardrobe\\naufyswardrobe\\formstart.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{55DC49FD-8B4E-4DD4-BEF0-33D28D04B953}|NaufysWardrobe\\NaufysWardrobe.csproj|C:\\Users\\Athalla\\source\\repos\\NaufysWardrobe\\naufyswardrobe\\formstart.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{55DC49FD-8B4E-4DD4-BEF0-33D28D04B953}|NaufysWardrobe\\NaufysWardrobe.csproj|solutionrelative:naufyswardrobe\\formstart.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -90,7 +98,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -98,33 +106,176 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FormResult.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Athalla\\source\\repos\\NaufysWardrobe\\NaufysWardrobe\\FormResult.Designer.cs",
-              "RelativeDocumentMoniker": "NaufysWardrobe\\FormResult.Designer.cs",
-              "ToolTip": "C:\\Users\\Athalla\\source\\repos\\NaufysWardrobe\\NaufysWardrobe\\FormResult.Designer.cs",
-              "RelativeToolTip": "NaufysWardrobe\\FormResult.Designer.cs",
-              "ViewState": "AgIAAFwAAAAAAAAAAAAjwHIAAABDAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "FormStart.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Athalla\\source\\repos\\NaufysWardrobe\\NaufysWardrobe\\FormStart.cs",
+              "RelativeDocumentMoniker": "NaufysWardrobe\\FormStart.cs",
+              "ToolTip": "C:\\Users\\Athalla\\source\\repos\\NaufysWardrobe\\NaufysWardrobe\\FormStart.cs [Design]",
+              "RelativeToolTip": "NaufysWardrobe\\FormStart.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T20:20:06.994Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-11T02:37:19.056Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "FormWardrobe.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Athalla\\source\\repos\\NaufysWardrobe\\NaufysWardrobe\\FormWardrobe.cs",
+              "RelativeDocumentMoniker": "NaufysWardrobe\\FormWardrobe.cs",
+              "ToolTip": "C:\\Users\\Athalla\\source\\repos\\NaufysWardrobe\\NaufysWardrobe\\FormWardrobe.cs [Design]",
+              "RelativeToolTip": "NaufysWardrobe\\FormWardrobe.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T02:37:06.078Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "FormWardrobe.Designer.cs",
               "DocumentMoniker": "C:\\Users\\Athalla\\source\\repos\\NaufysWardrobe\\NaufysWardrobe\\FormWardrobe.Designer.cs",
               "RelativeDocumentMoniker": "NaufysWardrobe\\FormWardrobe.Designer.cs",
               "ToolTip": "C:\\Users\\Athalla\\source\\repos\\NaufysWardrobe\\NaufysWardrobe\\FormWardrobe.Designer.cs",
               "RelativeToolTip": "NaufysWardrobe\\FormWardrobe.Designer.cs",
-              "ViewState": "AgIAADcAAAAAAAAAAAAUwEQAAABTAAAAAAAAAA==",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAjwGkAAABUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-10T20:19:57.988Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormResult.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Athalla\\source\\repos\\NaufysWardrobe\\NaufysWardrobe\\FormResult.Designer.cs",
+              "RelativeDocumentMoniker": "NaufysWardrobe\\FormResult.Designer.cs",
+              "ToolTip": "C:\\Users\\Athalla\\source\\repos\\NaufysWardrobe\\NaufysWardrobe\\FormResult.Designer.cs",
+              "RelativeToolTip": "NaufysWardrobe\\FormResult.Designer.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAuwGIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T20:20:06.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ClothingItem.cs",
+              "DocumentMoniker": "C:\\Users\\Athalla\\source\\repos\\NaufysWardrobe\\NaufysWardrobe\\Scripts\\ClothingItem.cs",
+              "RelativeDocumentMoniker": "NaufysWardrobe\\Scripts\\ClothingItem.cs",
+              "ToolTip": "C:\\Users\\Athalla\\source\\repos\\NaufysWardrobe\\NaufysWardrobe\\Scripts\\ClothingItem.cs",
+              "RelativeToolTip": "NaufysWardrobe\\Scripts\\ClothingItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T12:31:06.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GameForm.cs",
+              "DocumentMoniker": "C:\\Users\\Athalla\\source\\repos\\NaufysWardrobe\\NaufysWardrobe\\GameForm.cs",
+              "RelativeDocumentMoniker": "NaufysWardrobe\\GameForm.cs",
+              "ToolTip": "C:\\Users\\Athalla\\source\\repos\\NaufysWardrobe\\NaufysWardrobe\\GameForm.cs",
+              "RelativeToolTip": "NaufysWardrobe\\GameForm.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T12:29:21.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ScoreManager.cs",
+              "DocumentMoniker": "C:\\Users\\Athalla\\source\\repos\\NaufysWardrobe\\NaufysWardrobe\\Scripts\\ScoreManager.cs",
+              "RelativeDocumentMoniker": "NaufysWardrobe\\Scripts\\ScoreManager.cs",
+              "ToolTip": "C:\\Users\\Athalla\\source\\repos\\NaufysWardrobe\\NaufysWardrobe\\Scripts\\ScoreManager.cs",
+              "RelativeToolTip": "NaufysWardrobe\\Scripts\\ScoreManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T12:31:28.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Outfit.cs",
+              "DocumentMoniker": "C:\\Users\\Athalla\\source\\repos\\NaufysWardrobe\\NaufysWardrobe\\Scripts\\Outfit.cs",
+              "RelativeDocumentMoniker": "NaufysWardrobe\\Scripts\\Outfit.cs",
+              "ToolTip": "C:\\Users\\Athalla\\source\\repos\\NaufysWardrobe\\NaufysWardrobe\\Scripts\\Outfit.cs",
+              "RelativeToolTip": "NaufysWardrobe\\Scripts\\Outfit.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAiwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T12:30:41.163Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "FormGame.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Athalla\\source\\repos\\NaufysWardrobe\\NaufysWardrobe\\FormGame.cs",
+              "RelativeDocumentMoniker": "NaufysWardrobe\\FormGame.cs",
+              "ToolTip": "C:\\Users\\Athalla\\source\\repos\\NaufysWardrobe\\NaufysWardrobe\\FormGame.cs [Design]",
+              "RelativeToolTip": "NaufysWardrobe\\FormGame.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T20:16:41.664Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GameForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Athalla\\source\\repos\\NaufysWardrobe\\NaufysWardrobe\\GameForm.Designer.cs",
+              "RelativeDocumentMoniker": "NaufysWardrobe\\GameForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Athalla\\source\\repos\\NaufysWardrobe\\NaufysWardrobe\\GameForm.Designer.cs",
+              "RelativeToolTip": "NaufysWardrobe\\GameForm.Designer.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAkwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T12:29:32.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Wardrobe.cs",
+              "DocumentMoniker": "C:\\Users\\Athalla\\source\\repos\\NaufysWardrobe\\NaufysWardrobe\\Scripts\\Wardrobe.cs",
+              "RelativeDocumentMoniker": "NaufysWardrobe\\Scripts\\Wardrobe.cs",
+              "ToolTip": "C:\\Users\\Athalla\\source\\repos\\NaufysWardrobe\\NaufysWardrobe\\Scripts\\Wardrobe.cs",
+              "RelativeToolTip": "NaufysWardrobe\\Scripts\\Wardrobe.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T12:31:15.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GameTimer.cs",
+              "DocumentMoniker": "C:\\Users\\Athalla\\source\\repos\\NaufysWardrobe\\NaufysWardrobe\\Scripts\\GameTimer.cs",
+              "RelativeDocumentMoniker": "NaufysWardrobe\\Scripts\\GameTimer.cs",
+              "ToolTip": "C:\\Users\\Athalla\\source\\repos\\NaufysWardrobe\\NaufysWardrobe\\Scripts\\GameTimer.cs",
+              "RelativeToolTip": "NaufysWardrobe\\Scripts\\GameTimer.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAuwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T12:31:37.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Character.cs",
+              "DocumentMoniker": "C:\\Users\\Athalla\\source\\repos\\NaufysWardrobe\\NaufysWardrobe\\Scripts\\Character.cs",
+              "RelativeDocumentMoniker": "NaufysWardrobe\\Scripts\\Character.cs",
+              "ToolTip": "C:\\Users\\Athalla\\source\\repos\\NaufysWardrobe\\NaufysWardrobe\\Scripts\\Character.cs",
+              "RelativeToolTip": "NaufysWardrobe\\Scripts\\Character.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T12:30:26.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\Athalla\\source\\repos\\NaufysWardrobe\\NaufysWardrobe\\Scripts\\Game.cs",
+              "RelativeDocumentMoniker": "NaufysWardrobe\\Scripts\\Game.cs",
+              "ToolTip": "C:\\Users\\Athalla\\source\\repos\\NaufysWardrobe\\NaufysWardrobe\\Scripts\\Game.cs",
+              "RelativeToolTip": "NaufysWardrobe\\Scripts\\Game.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAAAFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T12:30:06.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "FormGame.Designer.cs",
               "DocumentMoniker": "C:\\Users\\Athalla\\source\\repos\\NaufysWardrobe\\NaufysWardrobe\\FormGame.Designer.cs",
               "RelativeDocumentMoniker": "NaufysWardrobe\\FormGame.Designer.cs",
@@ -137,7 +288,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "FormStart.Designer.cs",
               "DocumentMoniker": "C:\\Users\\Athalla\\source\\repos\\NaufysWardrobe\\NaufysWardrobe\\FormStart.Designer.cs",
               "RelativeDocumentMoniker": "NaufysWardrobe\\FormStart.Designer.cs",
@@ -150,66 +301,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FormGame.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Athalla\\source\\repos\\NaufysWardrobe\\NaufysWardrobe\\FormGame.cs",
-              "RelativeDocumentMoniker": "NaufysWardrobe\\FormGame.cs",
-              "ToolTip": "C:\\Users\\Athalla\\source\\repos\\NaufysWardrobe\\NaufysWardrobe\\FormGame.cs [Design]",
-              "RelativeToolTip": "NaufysWardrobe\\FormGame.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T20:16:41.664Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "GameForm.cs",
-              "DocumentMoniker": "C:\\Users\\Athalla\\source\\repos\\NaufysWardrobe\\NaufysWardrobe\\GameForm.cs",
-              "RelativeDocumentMoniker": "NaufysWardrobe\\GameForm.cs",
-              "ToolTip": "C:\\Users\\Athalla\\source\\repos\\NaufysWardrobe\\NaufysWardrobe\\GameForm.cs",
-              "RelativeToolTip": "NaufysWardrobe\\GameForm.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T12:29:21.744Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ClothingItem.cs",
-              "DocumentMoniker": "C:\\Users\\Athalla\\source\\repos\\NaufysWardrobe\\NaufysWardrobe\\Scripts\\ClothingItem.cs",
-              "RelativeDocumentMoniker": "NaufysWardrobe\\Scripts\\ClothingItem.cs",
-              "ToolTip": "C:\\Users\\Athalla\\source\\repos\\NaufysWardrobe\\NaufysWardrobe\\Scripts\\ClothingItem.cs",
-              "RelativeToolTip": "NaufysWardrobe\\Scripts\\ClothingItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T12:31:06.323Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ScoreManager.cs",
-              "DocumentMoniker": "C:\\Users\\Athalla\\source\\repos\\NaufysWardrobe\\NaufysWardrobe\\Scripts\\ScoreManager.cs",
-              "RelativeDocumentMoniker": "NaufysWardrobe\\Scripts\\ScoreManager.cs",
-              "ToolTip": "C:\\Users\\Athalla\\source\\repos\\NaufysWardrobe\\NaufysWardrobe\\Scripts\\ScoreManager.cs",
-              "RelativeToolTip": "NaufysWardrobe\\Scripts\\ScoreManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T12:31:28.122Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Outfit.cs",
-              "DocumentMoniker": "C:\\Users\\Athalla\\source\\repos\\NaufysWardrobe\\NaufysWardrobe\\Scripts\\Outfit.cs",
-              "RelativeDocumentMoniker": "NaufysWardrobe\\Scripts\\Outfit.cs",
-              "ToolTip": "C:\\Users\\Athalla\\source\\repos\\NaufysWardrobe\\NaufysWardrobe\\Scripts\\Outfit.cs",
-              "RelativeToolTip": "NaufysWardrobe\\Scripts\\Outfit.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAiwBkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T12:30:41.163Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "FormGame.cs",
               "DocumentMoniker": "C:\\Users\\Athalla\\source\\repos\\NaufysWardrobe\\NaufysWardrobe\\FormGame.cs",
               "RelativeDocumentMoniker": "NaufysWardrobe\\FormGame.cs",
@@ -222,67 +314,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "GameForm.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Athalla\\source\\repos\\NaufysWardrobe\\NaufysWardrobe\\GameForm.Designer.cs",
-              "RelativeDocumentMoniker": "NaufysWardrobe\\GameForm.Designer.cs",
-              "ToolTip": "C:\\Users\\Athalla\\source\\repos\\NaufysWardrobe\\NaufysWardrobe\\GameForm.Designer.cs",
-              "RelativeToolTip": "NaufysWardrobe\\GameForm.Designer.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAkwCsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T12:29:32.46Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Wardrobe.cs",
-              "DocumentMoniker": "C:\\Users\\Athalla\\source\\repos\\NaufysWardrobe\\NaufysWardrobe\\Scripts\\Wardrobe.cs",
-              "RelativeDocumentMoniker": "NaufysWardrobe\\Scripts\\Wardrobe.cs",
-              "ToolTip": "C:\\Users\\Athalla\\source\\repos\\NaufysWardrobe\\NaufysWardrobe\\Scripts\\Wardrobe.cs",
-              "RelativeToolTip": "NaufysWardrobe\\Scripts\\Wardrobe.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T12:31:15.742Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "GameTimer.cs",
-              "DocumentMoniker": "C:\\Users\\Athalla\\source\\repos\\NaufysWardrobe\\NaufysWardrobe\\Scripts\\GameTimer.cs",
-              "RelativeDocumentMoniker": "NaufysWardrobe\\Scripts\\GameTimer.cs",
-              "ToolTip": "C:\\Users\\Athalla\\source\\repos\\NaufysWardrobe\\NaufysWardrobe\\Scripts\\GameTimer.cs",
-              "RelativeToolTip": "NaufysWardrobe\\Scripts\\GameTimer.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAuwDAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T12:31:37.821Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Character.cs",
-              "DocumentMoniker": "C:\\Users\\Athalla\\source\\repos\\NaufysWardrobe\\NaufysWardrobe\\Scripts\\Character.cs",
-              "RelativeDocumentMoniker": "NaufysWardrobe\\Scripts\\Character.cs",
-              "ToolTip": "C:\\Users\\Athalla\\source\\repos\\NaufysWardrobe\\NaufysWardrobe\\Scripts\\Character.cs",
-              "RelativeToolTip": "NaufysWardrobe\\Scripts\\Character.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwDEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T12:30:26.591Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Game.cs",
-              "DocumentMoniker": "C:\\Users\\Athalla\\source\\repos\\NaufysWardrobe\\NaufysWardrobe\\Scripts\\Game.cs",
-              "RelativeDocumentMoniker": "NaufysWardrobe\\Scripts\\Game.cs",
-              "ToolTip": "C:\\Users\\Athalla\\source\\repos\\NaufysWardrobe\\NaufysWardrobe\\Scripts\\Game.cs",
-              "RelativeToolTip": "NaufysWardrobe\\Scripts\\Game.cs",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAAAFYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T12:30:06.567Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "FormResult.cs",
               "DocumentMoniker": "C:\\Users\\Athalla\\source\\repos\\NaufysWardrobe\\NaufysWardrobe\\FormResult.cs",
               "RelativeDocumentMoniker": "NaufysWardrobe\\FormResult.cs",
@@ -295,7 +327,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "FormWardrobe.cs",
               "DocumentMoniker": "C:\\Users\\Athalla\\source\\repos\\NaufysWardrobe\\NaufysWardrobe\\FormWardrobe.cs",
               "RelativeDocumentMoniker": "NaufysWardrobe\\FormWardrobe.cs",
@@ -303,11 +335,12 @@
               "RelativeToolTip": "NaufysWardrobe\\FormWardrobe.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAAwBAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T20:00:31.773Z"
+              "WhenOpened": "2024-12-10T20:00:31.773Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Athalla\\source\\repos\\NaufysWardrobe\\NaufysWardrobe\\Program.cs",
               "RelativeDocumentMoniker": "NaufysWardrobe\\Program.cs",
@@ -319,7 +352,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "GameForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Athalla\\source\\repos\\NaufysWardrobe\\NaufysWardrobe\\GameForm.cs",
               "RelativeDocumentMoniker": "NaufysWardrobe\\GameForm.cs",
@@ -330,7 +363,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "App.config",
               "DocumentMoniker": "C:\\Users\\Athalla\\source\\repos\\NaufysWardrobe\\NaufysWardrobe\\App.config",
               "RelativeDocumentMoniker": "NaufysWardrobe\\App.config",
@@ -338,7 +371,8 @@
               "RelativeToolTip": "NaufysWardrobe\\App.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-12-08T12:25:25.436Z"
+              "WhenOpened": "2024-12-08T12:25:25.436Z",
+              "EditorCaption": ""
             }
           ]
         }
