@@ -29,61 +29,74 @@
             ((System.ComponentModel.ISupportInitialize)(this.picShoes)).BeginInit();
             this.SuspendLayout();
             // 
-            // FormGame
-            // 
-            this.ClientSize = new System.Drawing.Size(1024, 768);
-            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Observe the Outfit";
-            // Add the load event handler back:
-            this.Load += new System.EventHandler(this.FormGame_Load);
-            // 
             // picCharacterBase
             // 
             this.picCharacterBase.Location = new System.Drawing.Point(362, 159);
+            this.picCharacterBase.Name = "picCharacterBase";
             this.picCharacterBase.Size = new System.Drawing.Size(300, 450);
             this.picCharacterBase.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.picCharacterBase.TabIndex = 4;
+            this.picCharacterBase.TabStop = false;
             // 
             // picHat
             // 
-            this.picHat.Location = new System.Drawing.Point(412, 120);
-            this.picHat.Size = new System.Drawing.Size(200, 80);
-            this.picHat.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.picHat.BackColor = System.Drawing.Color.Transparent;
+            this.picHat.Location = new System.Drawing.Point(452, 99);
+            this.picHat.Name = "picHat";
+            this.picHat.Size = new System.Drawing.Size(121, 106);
+            this.picHat.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.picHat.TabIndex = 3;
+            this.picHat.TabStop = false;
             // 
             // picShirt
             // 
+            this.picShirt.BackColor = System.Drawing.Color.Transparent;
             this.picShirt.Location = new System.Drawing.Point(392, 260);
+            this.picShirt.Name = "picShirt";
             this.picShirt.Size = new System.Drawing.Size(240, 120);
             this.picShirt.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.picShirt.BackColor = System.Drawing.Color.Transparent;
+            this.picShirt.TabIndex = 2;
+            this.picShirt.TabStop = false;
             // 
             // picPants
             // 
-            this.picPants.Location = new System.Drawing.Point(402, 380);
-            this.picPants.Size = new System.Drawing.Size(220, 110);
-            this.picPants.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.picPants.BackColor = System.Drawing.Color.Transparent;
+            this.picPants.Location = new System.Drawing.Point(402, 369);
+            this.picPants.Name = "picPants";
+            this.picPants.Size = new System.Drawing.Size(220, 187);
+            this.picPants.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.picPants.TabIndex = 1;
+            this.picPants.TabStop = false;
             // 
             // picShoes
             // 
-            this.picShoes.Location = new System.Drawing.Point(412, 490);
-            this.picShoes.Size = new System.Drawing.Size(200, 70);
-            this.picShoes.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.picShoes.BackColor = System.Drawing.Color.Transparent;
+            this.picShoes.Location = new System.Drawing.Point(432, 526);
+            this.picShoes.Name = "picShoes";
+            this.picShoes.Size = new System.Drawing.Size(161, 147);
+            this.picShoes.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.picShoes.TabIndex = 0;
+            this.picShoes.TabStop = false;
             // 
-            // Add controls
+            // FormGame
             // 
+            this.ClientSize = new System.Drawing.Size(1024, 768);
             this.Controls.Add(this.picShoes);
             this.Controls.Add(this.picPants);
             this.Controls.Add(this.picShirt);
             this.Controls.Add(this.picHat);
             this.Controls.Add(this.picCharacterBase);
+            this.Name = "FormGame";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.Text = "Observe the Outfit";
+            this.Load += new System.EventHandler(this.FormGame_Load);
             ((System.ComponentModel.ISupportInitialize)(this.picCharacterBase)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.picHat)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.picShirt)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.picPants)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.picShoes)).EndInit();
             this.ResumeLayout(false);
+
         }
     }
 }
