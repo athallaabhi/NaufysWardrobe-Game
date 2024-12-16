@@ -39,74 +39,104 @@
             ((System.ComponentModel.ISupportInitialize)(this.picSelectedShoes)).BeginInit();
             this.SuspendLayout();
             // 
+            // cmbHat
+            // 
+            this.cmbHat.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.cmbHat.Location = new System.Drawing.Point(118, 251);
+            this.cmbHat.Name = "cmbHat";
+            this.cmbHat.Size = new System.Drawing.Size(150, 28);
+            this.cmbHat.TabIndex = 0;
+            this.cmbHat.SelectedIndexChanged += new System.EventHandler(this.cmbHat_SelectedIndexChanged);
+            // 
+            // cmbShirt
+            // 
+            this.cmbShirt.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.cmbShirt.Location = new System.Drawing.Point(329, 251);
+            this.cmbShirt.Name = "cmbShirt";
+            this.cmbShirt.Size = new System.Drawing.Size(150, 28);
+            this.cmbShirt.TabIndex = 1;
+            this.cmbShirt.SelectedIndexChanged += new System.EventHandler(this.cmbShirt_SelectedIndexChanged);
+            // 
+            // cmbPants
+            // 
+            this.cmbPants.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.cmbPants.Location = new System.Drawing.Point(550, 251);
+            this.cmbPants.Name = "cmbPants";
+            this.cmbPants.Size = new System.Drawing.Size(150, 28);
+            this.cmbPants.TabIndex = 2;
+            this.cmbPants.SelectedIndexChanged += new System.EventHandler(this.cmbPants_SelectedIndexChanged);
+            // 
+            // cmbShoes
+            // 
+            this.cmbShoes.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.cmbShoes.Location = new System.Drawing.Point(752, 251);
+            this.cmbShoes.Name = "cmbShoes";
+            this.cmbShoes.Size = new System.Drawing.Size(150, 28);
+            this.cmbShoes.TabIndex = 3;
+            this.cmbShoes.SelectedIndexChanged += new System.EventHandler(this.cmbShoes_SelectedIndexChanged);
+            // 
+            // lblTimer
+            // 
+            this.lblTimer.AutoSize = true;
+            this.lblTimer.Location = new System.Drawing.Point(900, 20);
+            this.lblTimer.Name = "lblTimer";
+            this.lblTimer.Size = new System.Drawing.Size(103, 20);
+            this.lblTimer.TabIndex = 4;
+            this.lblTimer.Text = "Time left: 30s";
+            // 
+            // btnDone
+            // 
+            this.btnDone.BackColor = System.Drawing.Color.RoyalBlue;
+            this.btnDone.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnDone.ForeColor = System.Drawing.Color.White;
+            this.btnDone.Location = new System.Drawing.Point(460, 569);
+            this.btnDone.Name = "btnDone";
+            this.btnDone.Size = new System.Drawing.Size(100, 40);
+            this.btnDone.TabIndex = 5;
+            this.btnDone.Text = "Done";
+            this.btnDone.UseVisualStyleBackColor = false;
+            this.btnDone.Click += new System.EventHandler(this.btnDone_Click);
+            // 
+            // picSelectedHat
+            // 
+            this.picSelectedHat.Location = new System.Drawing.Point(130, 303);
+            this.picSelectedHat.Name = "picSelectedHat";
+            this.picSelectedHat.Size = new System.Drawing.Size(120, 120);
+            this.picSelectedHat.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.picSelectedHat.TabIndex = 6;
+            this.picSelectedHat.TabStop = false;
+            // 
+            // picSelectedShirt
+            // 
+            this.picSelectedShirt.Location = new System.Drawing.Point(344, 303);
+            this.picSelectedShirt.Name = "picSelectedShirt";
+            this.picSelectedShirt.Size = new System.Drawing.Size(120, 120);
+            this.picSelectedShirt.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.picSelectedShirt.TabIndex = 7;
+            this.picSelectedShirt.TabStop = false;
+            // 
+            // picSelectedPants
+            // 
+            this.picSelectedPants.Location = new System.Drawing.Point(563, 303);
+            this.picSelectedPants.Name = "picSelectedPants";
+            this.picSelectedPants.Size = new System.Drawing.Size(120, 120);
+            this.picSelectedPants.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.picSelectedPants.TabIndex = 8;
+            this.picSelectedPants.TabStop = false;
+            // 
+            // picSelectedShoes
+            // 
+            this.picSelectedShoes.Location = new System.Drawing.Point(771, 303);
+            this.picSelectedShoes.Name = "picSelectedShoes";
+            this.picSelectedShoes.Size = new System.Drawing.Size(120, 120);
+            this.picSelectedShoes.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.picSelectedShoes.TabIndex = 9;
+            this.picSelectedShoes.TabStop = false;
+            // 
             // FormWardrobe
             // 
+            this.BackColor = System.Drawing.Color.White;
             this.ClientSize = new System.Drawing.Size(1024, 768);
-            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Choose Your Outfit";
-            // Add load event
-            this.Load += new System.EventHandler(this.FormWardrobe_Load);
-            // 
-            // Layout settings
-            // 
-            int topRowY = 50;
-            int comboWidth = 150;
-            int comboHeight = 30;
-            int spacing = 30;
-
-            this.cmbHat.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
-            this.cmbHat.Location = new System.Drawing.Point(100, topRowY);
-            this.cmbHat.Size = new System.Drawing.Size(comboWidth, comboHeight);
-            // Add event
-            this.cmbHat.SelectedIndexChanged += new System.EventHandler(this.cmbHat_SelectedIndexChanged);
-
-            this.cmbShirt.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
-            this.cmbShirt.Location = new System.Drawing.Point(100 + comboWidth + spacing, topRowY);
-            this.cmbShirt.Size = new System.Drawing.Size(comboWidth, comboHeight);
-            // Add event
-            this.cmbShirt.SelectedIndexChanged += new System.EventHandler(this.cmbShirt_SelectedIndexChanged);
-
-            this.cmbPants.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
-            this.cmbPants.Location = new System.Drawing.Point(460, topRowY); // (100 + (comboWidth + spacing) * 2, topRowY)
-            this.cmbPants.Size = new System.Drawing.Size(comboWidth, comboHeight);
-            // Add event
-            this.cmbPants.SelectedIndexChanged += new System.EventHandler(this.cmbPants_SelectedIndexChanged);
-
-            this.cmbShoes.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
-            this.cmbShoes.Location = new System.Drawing.Point(640, topRowY); //(100 + (comboWidth + spacing) * 3)
-            this.cmbShoes.Size = new System.Drawing.Size(comboWidth, comboHeight);
-            // Add event
-            this.cmbShoes.SelectedIndexChanged += new System.EventHandler(this.cmbShoes_SelectedIndexChanged);
-
-            this.lblTimer.Location = new System.Drawing.Point(900, 20);
-            this.lblTimer.AutoSize = true;
-            this.lblTimer.Text = "Time left: 30s";
-
-            this.btnDone.Location = new System.Drawing.Point(462, 700); //((1024 / 2) - 50, 700)
-            this.btnDone.Size = new System.Drawing.Size(100, 40);
-            this.btnDone.Text = "Done";
-            // Add event if previously existed
-            this.btnDone.Click += new System.EventHandler(this.btnDone_Click);
-
-            int imgTop = 100 + comboHeight + 50; // beneath combos
-            int imgSize = 120;
-
-            this.picSelectedHat.Location = new System.Drawing.Point(100, imgTop);
-            this.picSelectedHat.Size = new System.Drawing.Size(imgSize, imgSize);
-            this.picSelectedHat.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-
-            this.picSelectedShirt.Location = new System.Drawing.Point(100 + (comboWidth + spacing), imgTop);
-            this.picSelectedShirt.Size = new System.Drawing.Size(imgSize, imgSize);
-            this.picSelectedShirt.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-
-            this.picSelectedPants.Location = new System.Drawing.Point(460, imgTop); //(100 + (comboWidth + spacing) * 2, imgTop)
-            this.picSelectedPants.Size = new System.Drawing.Size(imgSize, imgSize);
-            this.picSelectedPants.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-
-            this.picSelectedShoes.Location = new System.Drawing.Point(640, imgTop); //100 + (comboWidth + spacing) * 3
-            this.picSelectedShoes.Size = new System.Drawing.Size(imgSize, imgSize);
-            this.picSelectedShoes.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-
             this.Controls.Add(this.cmbHat);
             this.Controls.Add(this.cmbShirt);
             this.Controls.Add(this.cmbPants);
@@ -117,13 +147,17 @@
             this.Controls.Add(this.picSelectedShirt);
             this.Controls.Add(this.picSelectedPants);
             this.Controls.Add(this.picSelectedShoes);
-
+            this.Name = "FormWardrobe";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.Text = "Choose Your Outfit";
+            this.Load += new System.EventHandler(this.FormWardrobe_Load);
             ((System.ComponentModel.ISupportInitialize)(this.picSelectedHat)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.picSelectedShirt)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.picSelectedPants)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.picSelectedShoes)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
+
         }
     }
 }

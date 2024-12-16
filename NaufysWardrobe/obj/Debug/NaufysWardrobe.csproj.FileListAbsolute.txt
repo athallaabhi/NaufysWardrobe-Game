@@ -37,3 +37,5 @@ C:\Users\Acer\Documents\Caca\College\PBO\NaufysWardrobe-Game\NaufysWardrobe\obj\
 C:\Users\Acer\Documents\Caca\College\PBO\NaufysWardrobe-Game\NaufysWardrobe\obj\Debug\NaufysWardrobe.csproj.CoreCompileInputs.cache
 C:\Users\Acer\Documents\Caca\College\PBO\NaufysWardrobe-Game\NaufysWardrobe\obj\Debug\NaufysWardrobe.exe
 C:\Users\Acer\Documents\Caca\College\PBO\NaufysWardrobe-Game\NaufysWardrobe\obj\Debug\NaufysWardrobe.pdb
+C:\Users\Acer\Documents\Caca\College\PBO\NaufysWardrobe-Game\NaufysWardrobe\obj\Debug\NaufysWardrobeWinForms.FormStart.resources
+C:\Users\Acer\Documents\Caca\College\PBO\NaufysWardrobe-Game\NaufysWardrobe\obj\Debug\NaufysWardrobeWinForms.FormWardrobe.resources

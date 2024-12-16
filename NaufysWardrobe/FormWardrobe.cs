@@ -14,10 +14,8 @@ namespace NaufysWardrobeWinForms
         public FormWardrobe(Game currentGame)
         {
             InitializeComponent();
-
             game = currentGame;
         }
-
         private void FormWardrobe_Load(object sender, EventArgs e)
         {
             cmbHat.DataSource = game.Wardrobe.Hats.Select(x => x.Name).ToList();
