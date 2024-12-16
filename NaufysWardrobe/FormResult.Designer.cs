@@ -18,6 +18,7 @@ namespace NaufysWardrobeWinForms
 
         private System.Windows.Forms.Label lblScore;
         private System.Windows.Forms.Button btnRestart;
+
         protected override void Dispose(bool disposing)
         {
             if (disposing && (components != null)) components.Dispose();
@@ -26,6 +27,7 @@ namespace NaufysWardrobeWinForms
 
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             this.picCharacterBaseOri = new System.Windows.Forms.PictureBox();
             this.picOriHat = new System.Windows.Forms.PictureBox();
             this.picOriShirt = new System.Windows.Forms.PictureBox();
@@ -38,6 +40,7 @@ namespace NaufysWardrobeWinForms
             this.picPlayerShoes = new System.Windows.Forms.PictureBox();
             this.lblScore = new System.Windows.Forms.Label();
             this.btnRestart = new System.Windows.Forms.Button();
+
             ((System.ComponentModel.ISupportInitialize)(this.picCharacterBaseOri)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.picOriHat)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.picOriShirt)).BeginInit();
@@ -48,117 +51,102 @@ namespace NaufysWardrobeWinForms
             ((System.ComponentModel.ISupportInitialize)(this.picPlayerShirt)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.picPlayerPants)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.picPlayerShoes)).BeginInit();
+
+            this.picCharacterBaseOri.SuspendLayout();
+            this.picCharacterBasePlayer.SuspendLayout();
             this.SuspendLayout();
-            // 
-            // picCharacterBaseOri
-            // 
+
+            // Initialize and setup picCharacterBaseOri
+            this.picCharacterBaseOri.BackColor = System.Drawing.Color.Transparent;
             this.picCharacterBaseOri.Location = new System.Drawing.Point(528, 118);
             this.picCharacterBaseOri.Name = "picCharacterBaseOri";
             this.picCharacterBaseOri.Size = new System.Drawing.Size(334, 432);
             this.picCharacterBaseOri.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.picCharacterBaseOri.TabIndex = 0;
             this.picCharacterBaseOri.TabStop = false;
-            // 
-            // picOriHat
-            // 
-            this.picOriHat.BackColor = System.Drawing.Color.Transparent;
-            this.picOriHat.Location = new System.Drawing.Point(170, 90);
-            this.picOriHat.Name = "picOriHat";
-            this.picOriHat.Size = new System.Drawing.Size(260, 80);
-            this.picOriHat.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.picOriHat.TabIndex = 1;
-            this.picOriHat.TabStop = false;
-            // 
-            // picOriShirt
-            // 
-            this.picOriShirt.BackColor = System.Drawing.Color.Transparent;
-            this.picOriShirt.Location = new System.Drawing.Point(160, 220);
-            this.picOriShirt.Name = "picOriShirt";
-            this.picOriShirt.Size = new System.Drawing.Size(280, 140);
-            this.picOriShirt.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.picOriShirt.TabIndex = 2;
-            this.picOriShirt.TabStop = false;
-            // 
-            // picOriPants
-            // 
-            this.picOriPants.BackColor = System.Drawing.Color.Transparent;
-            this.picOriPants.Location = new System.Drawing.Point(217, 321);
-            this.picOriPants.Name = "picOriPants";
-            this.picOriPants.Size = new System.Drawing.Size(165, 179);
-            this.picOriPants.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.picOriPants.TabIndex = 3;
-            this.picOriPants.TabStop = false;
-            // 
-            // picOriShoes
-            // 
-            this.picOriShoes.BackColor = System.Drawing.Color.Transparent;
-            this.picOriShoes.Location = new System.Drawing.Point(170, 470);
-            this.picOriShoes.Name = "picOriShoes";
-            this.picOriShoes.Size = new System.Drawing.Size(260, 70);
-            this.picOriShoes.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.picOriShoes.TabIndex = 4;
-            this.picOriShoes.TabStop = false;
-            // 
-            // picCharacterBasePlayer
-            // 
+
+            // Initialize and setup picCharacterBasePlayer
+            this.picCharacterBasePlayer.BackColor = System.Drawing.Color.Transparent;
             this.picCharacterBasePlayer.Location = new System.Drawing.Point(136, 118);
             this.picCharacterBasePlayer.Name = "picCharacterBasePlayer";
             this.picCharacterBasePlayer.Size = new System.Drawing.Size(334, 432);
             this.picCharacterBasePlayer.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.picCharacterBasePlayer.TabIndex = 5;
             this.picCharacterBasePlayer.TabStop = false;
-            // 
-            // picPlayerHat
-            // 
+
+            // Setup picOriHat, picOriShirt, picOriPants, picOriShoes as children of picCharacterBaseOri
+            this.picOriHat.Parent = this.picCharacterBaseOri;
+            this.picOriHat.BackColor = System.Drawing.Color.Transparent;
+            this.picOriHat.Location = new System.Drawing.Point(90, -48); // Position relative to parent
+            this.picOriHat.Name = "picOriHat";
+            this.picOriHat.Size = new System.Drawing.Size(260, 80);
+            this.picOriHat.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.picOriHat.TabStop = false;
+
+            this.picOriShirt.Parent = this.picCharacterBaseOri;
+            this.picOriShirt.BackColor = System.Drawing.Color.Transparent;
+            this.picOriShirt.Location = new System.Drawing.Point(80, 102); // Position relative to parent
+            this.picOriShirt.Name = "picOriShirt";
+            this.picOriShirt.Size = new System.Drawing.Size(280, 140);
+            this.picOriShirt.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.picOriShirt.TabStop = false;
+
+            this.picOriPants.Parent = this.picCharacterBaseOri;
+            this.picOriPants.BackColor = System.Drawing.Color.Transparent;
+            this.picOriPants.Location = new System.Drawing.Point(137, 203); // Position relative to parent
+            this.picOriPants.Name = "picOriPants";
+            this.picOriPants.Size = new System.Drawing.Size(165, 179);
+            this.picOriPants.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.picOriPants.TabStop = false;
+
+            this.picOriShoes.Parent = this.picCharacterBaseOri;
+            this.picOriShoes.BackColor = System.Drawing.Color.Transparent;
+            this.picOriShoes.Location = new System.Drawing.Point(90, 352); // Position relative to parent
+            this.picOriShoes.Name = "picOriShoes";
+            this.picOriShoes.Size = new System.Drawing.Size(260, 70);
+            this.picOriShoes.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.picOriShoes.TabStop = false;
+
+            // Setup picPlayerHat, picPlayerShirt, picPlayerPants, picPlayerShoes as children of picCharacterBasePlayer
+            this.picPlayerHat.Parent = this.picCharacterBasePlayer;
             this.picPlayerHat.BackColor = System.Drawing.Color.Transparent;
-            this.picPlayerHat.Location = new System.Drawing.Point(570, 90);
+            this.picPlayerHat.Location = new System.Drawing.Point(90, -48); // Same relative positioning for consistency
             this.picPlayerHat.Name = "picPlayerHat";
             this.picPlayerHat.Size = new System.Drawing.Size(260, 80);
             this.picPlayerHat.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.picPlayerHat.TabIndex = 6;
             this.picPlayerHat.TabStop = false;
-            // 
-            // picPlayerShirt
-            // 
+
+            this.picPlayerShirt.Parent = this.picCharacterBasePlayer;
             this.picPlayerShirt.BackColor = System.Drawing.Color.Transparent;
-            this.picPlayerShirt.Location = new System.Drawing.Point(560, 220);
+            this.picPlayerShirt.Location = new System.Drawing.Point(80, 102); // Same relative positioning for consistency
             this.picPlayerShirt.Name = "picPlayerShirt";
             this.picPlayerShirt.Size = new System.Drawing.Size(280, 140);
             this.picPlayerShirt.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.picPlayerShirt.TabIndex = 7;
             this.picPlayerShirt.TabStop = false;
-            // 
-            // picPlayerPants
-            // 
+
+            this.picPlayerPants.Parent = this.picCharacterBasePlayer;
             this.picPlayerPants.BackColor = System.Drawing.Color.Transparent;
-            this.picPlayerPants.Location = new System.Drawing.Point(620, 321);
+            this.picPlayerPants.Location = new System.Drawing.Point(137, 203); // Same relative positioning for consistency
             this.picPlayerPants.Name = "picPlayerPants";
             this.picPlayerPants.Size = new System.Drawing.Size(165, 179);
             this.picPlayerPants.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.picPlayerPants.TabIndex = 8;
             this.picPlayerPants.TabStop = false;
-            // 
-            // picPlayerShoes
-            // 
+
+            this.picPlayerShoes.Parent = this.picCharacterBasePlayer;
             this.picPlayerShoes.BackColor = System.Drawing.Color.Transparent;
-            this.picPlayerShoes.Location = new System.Drawing.Point(570, 470);
+            this.picPlayerShoes.Location = new System.Drawing.Point(90, 352); // Same relative positioning for consistency
             this.picPlayerShoes.Name = "picPlayerShoes";
             this.picPlayerShoes.Size = new System.Drawing.Size(260, 70);
             this.picPlayerShoes.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.picPlayerShoes.TabIndex = 9;
             this.picPlayerShoes.TabStop = false;
-            // 
-            // lblScore
-            // 
+
+            // lblScore setup
             this.lblScore.AutoSize = true;
             this.lblScore.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold);
             this.lblScore.Location = new System.Drawing.Point(362, 600);
             this.lblScore.Name = "lblScore";
             this.lblScore.Size = new System.Drawing.Size(0, 32);
             this.lblScore.TabIndex = 10;
-            // 
-            // btnRestart
-            // 
+
+            // btnRestart setup
             this.btnRestart.BackColor = System.Drawing.Color.RoyalBlue;
             this.btnRestart.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnRestart.ForeColor = System.Drawing.Color.White;
@@ -169,27 +157,19 @@ namespace NaufysWardrobeWinForms
             this.btnRestart.Text = "Restart";
             this.btnRestart.UseVisualStyleBackColor = false;
             this.btnRestart.Click += new System.EventHandler(this.btnRestart_Click);
-            // 
-            // FormResult
-            // 
+
+            // Form settings
             this.BackColor = System.Drawing.Color.White;
             this.ClientSize = new System.Drawing.Size(1024, 768);
-            this.Controls.Add(this.picPlayerShoes);
-            this.Controls.Add(this.picPlayerPants);
-            this.Controls.Add(this.picPlayerShirt);
-            this.Controls.Add(this.picPlayerHat);
-            this.Controls.Add(this.picOriShoes);
-            this.Controls.Add(this.picOriPants);
-            this.Controls.Add(this.picOriShirt);
-            this.Controls.Add(this.picOriHat);
             this.Controls.Add(this.lblScore);
             this.Controls.Add(this.btnRestart);
-            this.Controls.Add(this.picCharacterBaseOri);
             this.Controls.Add(this.picCharacterBasePlayer);
+            this.Controls.Add(this.picCharacterBaseOri);
             this.Name = "FormResult";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Result";
             this.Load += new System.EventHandler(this.FormResult_Load);
+
             ((System.ComponentModel.ISupportInitialize)(this.picCharacterBaseOri)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.picOriHat)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.picOriShirt)).EndInit();
@@ -200,9 +180,10 @@ namespace NaufysWardrobeWinForms
             ((System.ComponentModel.ISupportInitialize)(this.picPlayerShirt)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.picPlayerPants)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.picPlayerShoes)).EndInit();
+            this.picCharacterBaseOri.ResumeLayout(false);
+            this.picCharacterBasePlayer.ResumeLayout(false);
             this.ResumeLayout(false);
             this.PerformLayout();
-
         }
     }
 }

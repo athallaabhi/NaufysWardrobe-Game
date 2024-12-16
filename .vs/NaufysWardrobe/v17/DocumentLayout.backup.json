@@ -1,61 +1,57 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Acer\\Documents\\Caca\\College\\PBO\\NaufysWardrobe-Game\\",
+  "WorkspaceRootPath": "C:\\Users\\Athalla\\source\\repos\\NaufysWardrobe\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{55DC49FD-8B4E-4DD4-BEF0-33D28D04B953}|NaufysWardrobe\\NaufysWardrobe.csproj|c:\\users\\acer\\documents\\caca\\college\\pbo\\naufyswardrobe-game\\naufyswardrobe\\formresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{55DC49FD-8B4E-4DD4-BEF0-33D28D04B953}|NaufysWardrobe\\NaufysWardrobe.csproj|solutionrelative:naufyswardrobe\\formresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55DC49FD-8B4E-4DD4-BEF0-33D28D04B953}|NaufysWardrobe\\NaufysWardrobe.csproj|C:\\Users\\Acer\\Documents\\Caca\\College\\PBO\\NaufysWardrobe-Game\\naufyswardrobe\\formgame.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55DC49FD-8B4E-4DD4-BEF0-33D28D04B953}|NaufysWardrobe\\NaufysWardrobe.csproj|solutionrelative:naufyswardrobe\\formgame.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55DC49FD-8B4E-4DD4-BEF0-33D28D04B953}|NaufysWardrobe\\NaufysWardrobe.csproj|c:\\users\\acer\\documents\\caca\\college\\pbo\\naufyswardrobe-game\\naufyswardrobe\\formgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{55DC49FD-8B4E-4DD4-BEF0-33D28D04B953}|NaufysWardrobe\\NaufysWardrobe.csproj|solutionrelative:naufyswardrobe\\formgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55DC49FD-8B4E-4DD4-BEF0-33D28D04B953}|NaufysWardrobe\\NaufysWardrobe.csproj|C:\\Users\\Acer\\Documents\\Caca\\College\\PBO\\NaufysWardrobe-Game\\naufyswardrobe\\formwardrobe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{55DC49FD-8B4E-4DD4-BEF0-33D28D04B953}|NaufysWardrobe\\NaufysWardrobe.csproj|solutionrelative:naufyswardrobe\\formwardrobe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55DC49FD-8B4E-4DD4-BEF0-33D28D04B953}|NaufysWardrobe\\NaufysWardrobe.csproj|C:\\Users\\Acer\\Documents\\Caca\\College\\PBO\\NaufysWardrobe-Game\\naufyswardrobe\\formstart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{55DC49FD-8B4E-4DD4-BEF0-33D28D04B953}|NaufysWardrobe\\NaufysWardrobe.csproj|solutionrelative:naufyswardrobe\\formstart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55DC49FD-8B4E-4DD4-BEF0-33D28D04B953}|NaufysWardrobe\\NaufysWardrobe.csproj|C:\\Users\\Acer\\Documents\\Caca\\College\\PBO\\NaufysWardrobe-Game\\naufyswardrobe\\formwardrobe.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55DC49FD-8B4E-4DD4-BEF0-33D28D04B953}|NaufysWardrobe\\NaufysWardrobe.csproj|solutionrelative:naufyswardrobe\\formwardrobe.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55DC49FD-8B4E-4DD4-BEF0-33D28D04B953}|NaufysWardrobe\\NaufysWardrobe.csproj|C:\\Users\\Acer\\Documents\\Caca\\College\\PBO\\NaufysWardrobe-Game\\naufyswardrobe\\formwardrobe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55DC49FD-8B4E-4DD4-BEF0-33D28D04B953}|NaufysWardrobe\\NaufysWardrobe.csproj|solutionrelative:naufyswardrobe\\formwardrobe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55DC49FD-8B4E-4DD4-BEF0-33D28D04B953}|NaufysWardrobe\\NaufysWardrobe.csproj|C:\\Users\\Acer\\Documents\\Caca\\College\\PBO\\NaufysWardrobe-Game\\naufyswardrobe\\formgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55DC49FD-8B4E-4DD4-BEF0-33D28D04B953}|NaufysWardrobe\\NaufysWardrobe.csproj|solutionrelative:naufyswardrobe\\formgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55DC49FD-8B4E-4DD4-BEF0-33D28D04B953}|NaufysWardrobe\\NaufysWardrobe.csproj|c:\\users\\acer\\documents\\caca\\college\\pbo\\naufyswardrobe-game\\naufyswardrobe\\formstart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55DC49FD-8B4E-4DD4-BEF0-33D28D04B953}|NaufysWardrobe\\NaufysWardrobe.csproj|solutionrelative:naufyswardrobe\\formstart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55DC49FD-8B4E-4DD4-BEF0-33D28D04B953}|NaufysWardrobe\\NaufysWardrobe.csproj|C:\\Users\\Acer\\Documents\\Caca\\College\\PBO\\NaufysWardrobe-Game\\naufyswardrobe\\formresult.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{55DC49FD-8B4E-4DD4-BEF0-33D28D04B953}|NaufysWardrobe\\NaufysWardrobe.csproj|C:\\Users\\Athalla\\source\\repos\\NaufysWardrobe\\naufyswardrobe\\formresult.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{55DC49FD-8B4E-4DD4-BEF0-33D28D04B953}|NaufysWardrobe\\NaufysWardrobe.csproj|solutionrelative:naufyswardrobe\\formresult.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55DC49FD-8B4E-4DD4-BEF0-33D28D04B953}|NaufysWardrobe\\NaufysWardrobe.csproj|C:\\Users\\Acer\\Documents\\Caca\\College\\PBO\\NaufysWardrobe-Game\\naufyswardrobe\\formresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{55DC49FD-8B4E-4DD4-BEF0-33D28D04B953}|NaufysWardrobe\\NaufysWardrobe.csproj|C:\\Users\\Athalla\\source\\repos\\NaufysWardrobe\\naufyswardrobe\\formresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{55DC49FD-8B4E-4DD4-BEF0-33D28D04B953}|NaufysWardrobe\\NaufysWardrobe.csproj|solutionrelative:naufyswardrobe\\formresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55DC49FD-8B4E-4DD4-BEF0-33D28D04B953}|NaufysWardrobe\\NaufysWardrobe.csproj|C:\\Users\\Acer\\Documents\\Caca\\College\\PBO\\NaufysWardrobe-Game\\naufyswardrobe\\formstart.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55DC49FD-8B4E-4DD4-BEF0-33D28D04B953}|NaufysWardrobe\\NaufysWardrobe.csproj|solutionrelative:naufyswardrobe\\formstart.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55DC49FD-8B4E-4DD4-BEF0-33D28D04B953}|NaufysWardrobe\\NaufysWardrobe.csproj|C:\\Users\\Acer\\Documents\\Caca\\College\\PBO\\NaufysWardrobe-Game\\naufyswardrobe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{55DC49FD-8B4E-4DD4-BEF0-33D28D04B953}|NaufysWardrobe\\NaufysWardrobe.csproj|C:\\Users\\Athalla\\source\\repos\\NaufysWardrobe\\naufyswardrobe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{55DC49FD-8B4E-4DD4-BEF0-33D28D04B953}|NaufysWardrobe\\NaufysWardrobe.csproj|solutionrelative:naufyswardrobe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Acer\\Documents\\Caca\\College\\PBO\\NaufysWardrobe-Game\\NaufysWardrobe\\App.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{55DC49FD-8B4E-4DD4-BEF0-33D28D04B953}|NaufysWardrobe\\NaufysWardrobe.csproj|C:\\Users\\Athalla\\source\\repos\\NaufysWardrobe\\naufyswardrobe\\formgame.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55DC49FD-8B4E-4DD4-BEF0-33D28D04B953}|NaufysWardrobe\\NaufysWardrobe.csproj|solutionrelative:naufyswardrobe\\formgame.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55DC49FD-8B4E-4DD4-BEF0-33D28D04B953}|NaufysWardrobe\\NaufysWardrobe.csproj|C:\\Users\\Athalla\\source\\repos\\NaufysWardrobe\\naufyswardrobe\\formgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{55DC49FD-8B4E-4DD4-BEF0-33D28D04B953}|NaufysWardrobe\\NaufysWardrobe.csproj|solutionrelative:naufyswardrobe\\formgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55DC49FD-8B4E-4DD4-BEF0-33D28D04B953}|NaufysWardrobe\\NaufysWardrobe.csproj|C:\\Users\\Athalla\\source\\repos\\NaufysWardrobe\\naufyswardrobe\\formwardrobe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{55DC49FD-8B4E-4DD4-BEF0-33D28D04B953}|NaufysWardrobe\\NaufysWardrobe.csproj|solutionrelative:naufyswardrobe\\formwardrobe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55DC49FD-8B4E-4DD4-BEF0-33D28D04B953}|NaufysWardrobe\\NaufysWardrobe.csproj|C:\\Users\\Athalla\\source\\repos\\NaufysWardrobe\\naufyswardrobe\\formstart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{55DC49FD-8B4E-4DD4-BEF0-33D28D04B953}|NaufysWardrobe\\NaufysWardrobe.csproj|solutionrelative:naufyswardrobe\\formstart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55DC49FD-8B4E-4DD4-BEF0-33D28D04B953}|NaufysWardrobe\\NaufysWardrobe.csproj|C:\\Users\\Athalla\\source\\repos\\NaufysWardrobe\\naufyswardrobe\\formwardrobe.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55DC49FD-8B4E-4DD4-BEF0-33D28D04B953}|NaufysWardrobe\\NaufysWardrobe.csproj|solutionrelative:naufyswardrobe\\formwardrobe.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55DC49FD-8B4E-4DD4-BEF0-33D28D04B953}|NaufysWardrobe\\NaufysWardrobe.csproj|C:\\Users\\Athalla\\source\\repos\\NaufysWardrobe\\naufyswardrobe\\formwardrobe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55DC49FD-8B4E-4DD4-BEF0-33D28D04B953}|NaufysWardrobe\\NaufysWardrobe.csproj|solutionrelative:naufyswardrobe\\formwardrobe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55DC49FD-8B4E-4DD4-BEF0-33D28D04B953}|NaufysWardrobe\\NaufysWardrobe.csproj|C:\\Users\\Athalla\\source\\repos\\NaufysWardrobe\\naufyswardrobe\\formgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55DC49FD-8B4E-4DD4-BEF0-33D28D04B953}|NaufysWardrobe\\NaufysWardrobe.csproj|solutionrelative:naufyswardrobe\\formgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55DC49FD-8B4E-4DD4-BEF0-33D28D04B953}|NaufysWardrobe\\NaufysWardrobe.csproj|C:\\Users\\Athalla\\source\\repos\\NaufysWardrobe\\naufyswardrobe\\formstart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55DC49FD-8B4E-4DD4-BEF0-33D28D04B953}|NaufysWardrobe\\NaufysWardrobe.csproj|solutionrelative:naufyswardrobe\\formstart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55DC49FD-8B4E-4DD4-BEF0-33D28D04B953}|NaufysWardrobe\\NaufysWardrobe.csproj|C:\\Users\\Athalla\\source\\repos\\NaufysWardrobe\\naufyswardrobe\\formstart.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55DC49FD-8B4E-4DD4-BEF0-33D28D04B953}|NaufysWardrobe\\NaufysWardrobe.csproj|solutionrelative:naufyswardrobe\\formstart.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Athalla\\source\\repos\\NaufysWardrobe\\NaufysWardrobe\\App.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NaufysWardrobe\\App.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
@@ -66,79 +62,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FormResult.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\Caca\\College\\PBO\\NaufysWardrobe-Game\\NaufysWardrobe\\FormResult.cs",
-              "RelativeDocumentMoniker": "NaufysWardrobe\\FormResult.cs",
-              "ToolTip": "C:\\Users\\Acer\\Documents\\Caca\\College\\PBO\\NaufysWardrobe-Game\\NaufysWardrobe\\FormResult.cs [Design]",
-              "RelativeToolTip": "NaufysWardrobe\\FormResult.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T10:27:38.959Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "FormStart.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\Caca\\College\\PBO\\NaufysWardrobe-Game\\NaufysWardrobe\\FormStart.cs",
-              "RelativeDocumentMoniker": "NaufysWardrobe\\FormStart.cs",
-              "ToolTip": "C:\\Users\\Acer\\Documents\\Caca\\College\\PBO\\NaufysWardrobe-Game\\NaufysWardrobe\\FormStart.cs",
-              "RelativeToolTip": "NaufysWardrobe\\FormStart.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T11:04:47.079Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FormWardrobe.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\Caca\\College\\PBO\\NaufysWardrobe-Game\\NaufysWardrobe\\FormWardrobe.cs",
-              "RelativeDocumentMoniker": "NaufysWardrobe\\FormWardrobe.cs",
-              "ToolTip": "C:\\Users\\Acer\\Documents\\Caca\\College\\PBO\\NaufysWardrobe-Game\\NaufysWardrobe\\FormWardrobe.cs [Design]",
-              "RelativeToolTip": "NaufysWardrobe\\FormWardrobe.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T02:37:06.078Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "FormStart.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\Caca\\College\\PBO\\NaufysWardrobe-Game\\NaufysWardrobe\\FormStart.cs",
-              "RelativeDocumentMoniker": "NaufysWardrobe\\FormStart.cs",
-              "ToolTip": "C:\\Users\\Acer\\Documents\\Caca\\College\\PBO\\NaufysWardrobe-Game\\NaufysWardrobe\\FormStart.cs [Design]",
-              "RelativeToolTip": "NaufysWardrobe\\FormStart.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T02:37:19.056Z",
-              "EditorCaption": " [Design]"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "FormWardrobe.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\Caca\\College\\PBO\\NaufysWardrobe-Game\\NaufysWardrobe\\FormWardrobe.Designer.cs",
-              "RelativeDocumentMoniker": "NaufysWardrobe\\FormWardrobe.Designer.cs",
-              "ToolTip": "C:\\Users\\Acer\\Documents\\Caca\\College\\PBO\\NaufysWardrobe-Game\\NaufysWardrobe\\FormWardrobe.Designer.cs",
-              "RelativeToolTip": "NaufysWardrobe\\FormWardrobe.Designer.cs",
-              "ViewState": "AgIAADkAAAAAAAAAAAAYwE4AAAAPAAAAAAAAAA==",
+              "Title": "FormWardrobe.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Athalla\\source\\repos\\NaufysWardrobe\\NaufysWardrobe\\FormWardrobe.cs",
+              "RelativeDocumentMoniker": "NaufysWardrobe\\FormWardrobe.cs",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\Caca\\College\\PBO\\NaufysWardrobe-Game\\NaufysWardrobe\\FormWardrobe.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Acer\\Documents\\Caca\\College\\PBO\\NaufysWardrobe-Game\\NaufysWardrobe\\FormWardrobe.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T20:19:57.988Z",
+              "WhenOpened": "2024-12-11T02:37:06.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormGame.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Athalla\\source\\repos\\NaufysWardrobe\\NaufysWardrobe\\FormGame.Designer.cs",
+              "RelativeDocumentMoniker": "NaufysWardrobe\\FormGame.Designer.cs",
+              "ToolTip": "C:\\Users\\Athalla\\source\\repos\\NaufysWardrobe\\NaufysWardrobe\\FormGame.Designer.cs",
+              "RelativeToolTip": "NaufysWardrobe\\FormGame.Designer.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAowDEAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T20:19:49.952Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 0,
               "Title": "FormResult.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\Caca\\College\\PBO\\NaufysWardrobe-Game\\NaufysWardrobe\\FormResult.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Athalla\\source\\repos\\NaufysWardrobe\\NaufysWardrobe\\FormResult.Designer.cs",
               "RelativeDocumentMoniker": "NaufysWardrobe\\FormResult.Designer.cs",
-              "ToolTip": "C:\\Users\\Acer\\Documents\\Caca\\College\\PBO\\NaufysWardrobe-Game\\NaufysWardrobe\\FormResult.Designer.cs",
+              "ToolTip": "C:\\Users\\Athalla\\source\\repos\\NaufysWardrobe\\NaufysWardrobe\\FormResult.Designer.cs",
               "RelativeToolTip": "NaufysWardrobe\\FormResult.Designer.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBoAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAAwHcAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-10T20:20:06.994Z",
               "EditorCaption": ""
@@ -146,103 +108,122 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "FormGame.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\Caca\\College\\PBO\\NaufysWardrobe-Game\\NaufysWardrobe\\FormGame.cs",
-              "RelativeDocumentMoniker": "NaufysWardrobe\\FormGame.cs",
-              "ToolTip": "C:\\Users\\Acer\\Documents\\Caca\\College\\PBO\\NaufysWardrobe-Game\\NaufysWardrobe\\FormGame.cs [Design]",
-              "RelativeToolTip": "NaufysWardrobe\\FormGame.cs [Design]",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Athalla\\source\\repos\\NaufysWardrobe\\NaufysWardrobe\\Program.cs",
+              "RelativeDocumentMoniker": "NaufysWardrobe\\Program.cs",
+              "ToolTip": "C:\\Users\\Athalla\\source\\repos\\NaufysWardrobe\\NaufysWardrobe\\Program.cs",
+              "RelativeToolTip": "NaufysWardrobe\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T20:16:41.664Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-12-08T12:25:27.93Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "FormGame.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\Caca\\College\\PBO\\NaufysWardrobe-Game\\NaufysWardrobe\\FormGame.Designer.cs",
-              "RelativeDocumentMoniker": "NaufysWardrobe\\FormGame.Designer.cs",
-              "ToolTip": "C:\\Users\\Acer\\Documents\\Caca\\College\\PBO\\NaufysWardrobe-Game\\NaufysWardrobe\\FormGame.Designer.cs",
-              "RelativeToolTip": "NaufysWardrobe\\FormGame.Designer.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAIwCQAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T20:19:49.952Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "FormStart.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\Caca\\College\\PBO\\NaufysWardrobe-Game\\NaufysWardrobe\\FormStart.Designer.cs",
-              "RelativeDocumentMoniker": "NaufysWardrobe\\FormStart.Designer.cs",
-              "ToolTip": "C:\\Users\\Acer\\Documents\\Caca\\College\\PBO\\NaufysWardrobe-Game\\NaufysWardrobe\\FormStart.Designer.cs",
-              "RelativeToolTip": "NaufysWardrobe\\FormStart.Designer.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAswCEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T20:19:43.759Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "FormGame.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\Caca\\College\\PBO\\NaufysWardrobe-Game\\NaufysWardrobe\\FormGame.cs",
-              "RelativeDocumentMoniker": "NaufysWardrobe\\FormGame.cs",
-              "ToolTip": "C:\\Users\\Acer\\Documents\\Caca\\College\\PBO\\NaufysWardrobe-Game\\NaufysWardrobe\\FormGame.cs",
-              "RelativeToolTip": "NaufysWardrobe\\FormGame.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAywAwAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T20:00:22.239Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
               "Title": "FormResult.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\Caca\\College\\PBO\\NaufysWardrobe-Game\\NaufysWardrobe\\FormResult.cs",
+              "DocumentMoniker": "C:\\Users\\Athalla\\source\\repos\\NaufysWardrobe\\NaufysWardrobe\\FormResult.cs",
               "RelativeDocumentMoniker": "NaufysWardrobe\\FormResult.cs",
-              "ToolTip": "C:\\Users\\Acer\\Documents\\Caca\\College\\PBO\\NaufysWardrobe-Game\\NaufysWardrobe\\FormResult.cs",
+              "ToolTip": "C:\\Users\\Athalla\\source\\repos\\NaufysWardrobe\\NaufysWardrobe\\FormResult.cs",
               "RelativeToolTip": "NaufysWardrobe\\FormResult.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAxwA8AAAALAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABoAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-10T20:00:41.472Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "FormWardrobe.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\Caca\\College\\PBO\\NaufysWardrobe-Game\\NaufysWardrobe\\FormWardrobe.cs",
-              "RelativeDocumentMoniker": "NaufysWardrobe\\FormWardrobe.cs",
-              "ToolTip": "C:\\Users\\Acer\\Documents\\Caca\\College\\PBO\\NaufysWardrobe-Game\\NaufysWardrobe\\FormWardrobe.cs",
-              "RelativeToolTip": "NaufysWardrobe\\FormWardrobe.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAfAAAAAAAAAA==",
+              "DocumentIndex": 10,
+              "Title": "FormStart.cs",
+              "DocumentMoniker": "C:\\Users\\Athalla\\source\\repos\\NaufysWardrobe\\NaufysWardrobe\\FormStart.cs",
+              "RelativeDocumentMoniker": "NaufysWardrobe\\FormStart.cs",
+              "ToolTip": "C:\\Users\\Athalla\\source\\repos\\NaufysWardrobe\\NaufysWardrobe\\FormStart.cs",
+              "RelativeToolTip": "NaufysWardrobe\\FormStart.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T20:00:31.773Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-16T11:04:47.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormStart.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Athalla\\source\\repos\\NaufysWardrobe\\NaufysWardrobe\\FormStart.cs",
+              "RelativeDocumentMoniker": "NaufysWardrobe\\FormStart.cs",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\Caca\\College\\PBO\\NaufysWardrobe-Game\\NaufysWardrobe\\FormStart.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Acer\\Documents\\Caca\\College\\PBO\\NaufysWardrobe-Game\\NaufysWardrobe\\FormStart.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T02:37:19.056Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\Caca\\College\\PBO\\NaufysWardrobe-Game\\NaufysWardrobe\\Program.cs",
-              "RelativeDocumentMoniker": "NaufysWardrobe\\Program.cs",
-              "ToolTip": "C:\\Users\\Acer\\Documents\\Caca\\College\\PBO\\NaufysWardrobe-Game\\NaufysWardrobe\\Program.cs",
-              "RelativeToolTip": "NaufysWardrobe\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T12:25:27.93Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
               "Title": "App.config",
-              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\Caca\\College\\PBO\\NaufysWardrobe-Game\\NaufysWardrobe\\App.config",
+              "DocumentMoniker": "C:\\Users\\Athalla\\source\\repos\\NaufysWardrobe\\NaufysWardrobe\\App.config",
               "RelativeDocumentMoniker": "NaufysWardrobe\\App.config",
-              "ToolTip": "C:\\Users\\Acer\\Documents\\Caca\\College\\PBO\\NaufysWardrobe-Game\\NaufysWardrobe\\App.config",
+              "ToolTip": "C:\\Users\\Athalla\\source\\repos\\NaufysWardrobe\\NaufysWardrobe\\App.config",
               "RelativeToolTip": "NaufysWardrobe\\App.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
               "WhenOpened": "2024-12-08T12:25:25.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormWardrobe.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Athalla\\source\\repos\\NaufysWardrobe\\NaufysWardrobe\\FormWardrobe.Designer.cs",
+              "RelativeDocumentMoniker": "NaufysWardrobe\\FormWardrobe.Designer.cs",
+              "ToolTip": "C:\\Users\\Athalla\\source\\repos\\NaufysWardrobe\\NaufysWardrobe\\FormWardrobe.Designer.cs",
+              "RelativeToolTip": "NaufysWardrobe\\FormWardrobe.Designer.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAYwE4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T20:19:57.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormGame.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Athalla\\source\\repos\\NaufysWardrobe\\NaufysWardrobe\\FormGame.cs",
+              "RelativeDocumentMoniker": "NaufysWardrobe\\FormGame.cs",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\Caca\\College\\PBO\\NaufysWardrobe-Game\\NaufysWardrobe\\FormGame.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Acer\\Documents\\Caca\\College\\PBO\\NaufysWardrobe-Game\\NaufysWardrobe\\FormGame.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T20:16:41.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormStart.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Athalla\\source\\repos\\NaufysWardrobe\\NaufysWardrobe\\FormStart.Designer.cs",
+              "RelativeDocumentMoniker": "NaufysWardrobe\\FormStart.Designer.cs",
+              "ToolTip": "C:\\Users\\Athalla\\source\\repos\\NaufysWardrobe\\NaufysWardrobe\\FormStart.Designer.cs",
+              "RelativeToolTip": "NaufysWardrobe\\FormStart.Designer.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAswCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T20:19:43.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormGame.cs",
+              "DocumentMoniker": "C:\\Users\\Athalla\\source\\repos\\NaufysWardrobe\\NaufysWardrobe\\FormGame.cs",
+              "RelativeDocumentMoniker": "NaufysWardrobe\\FormGame.cs",
+              "ToolTip": "C:\\Users\\Athalla\\source\\repos\\NaufysWardrobe\\NaufysWardrobe\\FormGame.cs",
+              "RelativeToolTip": "NaufysWardrobe\\FormGame.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAywAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T20:00:22.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormWardrobe.cs",
+              "DocumentMoniker": "C:\\Users\\Athalla\\source\\repos\\NaufysWardrobe\\NaufysWardrobe\\FormWardrobe.cs",
+              "RelativeDocumentMoniker": "NaufysWardrobe\\FormWardrobe.cs",
+              "ToolTip": "C:\\Users\\Athalla\\source\\repos\\NaufysWardrobe\\NaufysWardrobe\\FormWardrobe.cs",
+              "RelativeToolTip": "NaufysWardrobe\\FormWardrobe.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T20:00:31.773Z"
             }
           ]
         }

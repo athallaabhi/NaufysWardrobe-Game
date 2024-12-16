@@ -2,7 +2,6 @@ C:\Users\Athalla\source\repos\NaufysWardrobe\NaufysWardrobe\obj\Debug\NaufysWard
 C:\Users\Athalla\source\repos\NaufysWardrobe\NaufysWardrobe\obj\Debug\NaufysWardrobe.Properties.Resources.resources
 C:\Users\Athalla\source\repos\NaufysWardrobe\NaufysWardrobe\obj\Debug\NaufysWardrobe.csproj.GenerateResource.cache
 C:\Users\Athalla\source\repos\NaufysWardrobe\NaufysWardrobe\obj\Debug\NaufysWardrobe.csproj.CoreCompileInputs.cache
-C:\Users\Athalla\source\repos\NaufysWardrobe\NaufysWardrobe\bin\Debug\NaufysWardrobe.exe.config
 C:\Users\Athalla\source\repos\NaufysWardrobe\NaufysWardrobe\bin\Debug\NaufysWardrobe.exe
 C:\Users\Athalla\source\repos\NaufysWardrobe\NaufysWardrobe\bin\Debug\NaufysWardrobe.pdb
 C:\Users\Athalla\source\repos\NaufysWardrobe\NaufysWardrobe\obj\Debug\NaufysWardrobe.exe
@@ -39,3 +38,5 @@ C:\Users\Acer\Documents\Caca\College\PBO\NaufysWardrobe-Game\NaufysWardrobe\obj\
 C:\Users\Acer\Documents\Caca\College\PBO\NaufysWardrobe-Game\NaufysWardrobe\obj\Debug\NaufysWardrobe.pdb
 C:\Users\Acer\Documents\Caca\College\PBO\NaufysWardrobe-Game\NaufysWardrobe\obj\Debug\NaufysWardrobeWinForms.FormStart.resources
 C:\Users\Acer\Documents\Caca\College\PBO\NaufysWardrobe-Game\NaufysWardrobe\obj\Debug\NaufysWardrobeWinForms.FormWardrobe.resources
+C:\Users\Athalla\source\repos\NaufysWardrobe\NaufysWardrobe\obj\Debug\NaufysWardrobeWinForms.FormStart.resources
+C:\Users\Athalla\source\repos\NaufysWardrobe\NaufysWardrobe\obj\Debug\NaufysWardrobeWinForms.FormWardrobe.resources

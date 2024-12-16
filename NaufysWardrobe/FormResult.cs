@@ -13,7 +13,7 @@ namespace NaufysWardrobeWinForms
         {
             InitializeComponent();
 
-           
+
             game = currentGame;
         }
 

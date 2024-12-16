@@ -8,6 +8,7 @@
         private System.Windows.Forms.PictureBox picShirt;
         private System.Windows.Forms.PictureBox picPants;
         private System.Windows.Forms.PictureBox picShoes;
+        private System.Windows.Forms.TextBox textBox1;
 
         protected override void Dispose(bool disposing)
         {
@@ -28,6 +29,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.picShirt)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.picPants)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.picShoes)).BeginInit();
+            this.picCharacterBase.SuspendLayout();
             this.SuspendLayout();
             // 
             // picCharacterBase
@@ -43,42 +45,46 @@
             // picHat
             // 
             this.picHat.BackColor = System.Drawing.Color.Transparent;
-            this.picHat.Location = new System.Drawing.Point(451, 121);
+            this.picHat.Location = new System.Drawing.Point(189, -52); // Adjusted relative to parent
             this.picHat.Name = "picHat";
             this.picHat.Size = new System.Drawing.Size(121, 106);
             this.picHat.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.picHat.TabIndex = 3;
             this.picHat.TabStop = false;
+            this.picHat.Parent = this.picCharacterBase; // Set parent
             // 
             // picShirt
             // 
             this.picShirt.BackColor = System.Drawing.Color.Transparent;
-            this.picShirt.Location = new System.Drawing.Point(391, 284);
+            this.picShirt.Location = new System.Drawing.Point(129, 111); // Adjusted relative to parent
             this.picShirt.Name = "picShirt";
             this.picShirt.Size = new System.Drawing.Size(240, 120);
             this.picShirt.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.picShirt.TabIndex = 2;
             this.picShirt.TabStop = false;
+            this.picShirt.Parent = this.picCharacterBase; // Set parent
             // 
             // picPants
             // 
             this.picPants.BackColor = System.Drawing.Color.Transparent;
-            this.picPants.Location = new System.Drawing.Point(401, 391);
+            this.picPants.Location = new System.Drawing.Point(139, 231); // Adjusted relative to parent
             this.picPants.Name = "picPants";
             this.picPants.Size = new System.Drawing.Size(220, 187);
             this.picPants.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.picPants.TabIndex = 1;
             this.picPants.TabStop = false;
+            this.picPants.Parent = this.picCharacterBase; // Set parent
             // 
             // picShoes
             // 
             this.picShoes.BackColor = System.Drawing.Color.Transparent;
-            this.picShoes.Location = new System.Drawing.Point(433, 562);
+            this.picShoes.Location = new System.Drawing.Point(171, 418); // Adjusted relative to parent
             this.picShoes.Name = "picShoes";
             this.picShoes.Size = new System.Drawing.Size(161, 147);
             this.picShoes.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.picShoes.TabIndex = 0;
             this.picShoes.TabStop = false;
+            this.picShoes.Parent = this.picCharacterBase; // Set parent
             // 
             // textBox1
             // 
@@ -97,10 +103,6 @@
             this.BackColor = System.Drawing.Color.White;
             this.ClientSize = new System.Drawing.Size(1024, 768);
             this.Controls.Add(this.textBox1);
-            this.Controls.Add(this.picShoes);
-            this.Controls.Add(this.picPants);
-            this.Controls.Add(this.picShirt);
-            this.Controls.Add(this.picHat);
             this.Controls.Add(this.picCharacterBase);
             this.Name = "FormGame";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
@@ -111,11 +113,9 @@
             ((System.ComponentModel.ISupportInitialize)(this.picShirt)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.picPants)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.picShoes)).EndInit();
+            this.picCharacterBase.ResumeLayout(false);
             this.ResumeLayout(false);
             this.PerformLayout();
-
         }
-
-        private System.Windows.Forms.TextBox textBox1;
     }
 }
