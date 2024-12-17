@@ -45,7 +45,7 @@
             // picHat
             // 
             this.picHat.BackColor = System.Drawing.Color.Transparent;
-            this.picHat.Location = new System.Drawing.Point(189, -52); // Adjusted relative to parent
+            this.picHat.Location = new System.Drawing.Point(189, -12); // Adjusted relative to parent
             this.picHat.Name = "picHat";
             this.picHat.Size = new System.Drawing.Size(121, 106);
             this.picHat.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -56,9 +56,9 @@
             // picShirt
             // 
             this.picShirt.BackColor = System.Drawing.Color.Transparent;
-            this.picShirt.Location = new System.Drawing.Point(129, 111); // Adjusted relative to parent
+            this.picShirt.Location = new System.Drawing.Point(124, 91); // Adjusted relative to parent
             this.picShirt.Name = "picShirt";
-            this.picShirt.Size = new System.Drawing.Size(240, 120);
+            this.picShirt.Size = new System.Drawing.Size(250, 250);
             this.picShirt.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.picShirt.TabIndex = 2;
             this.picShirt.TabStop = false;
@@ -67,9 +67,9 @@
             // picPants
             // 
             this.picPants.BackColor = System.Drawing.Color.Transparent;
-            this.picPants.Location = new System.Drawing.Point(139, 231); // Adjusted relative to parent
+            this.picPants.Location = new System.Drawing.Point(124, 216); // Adjusted relative to parent
             this.picPants.Name = "picPants";
-            this.picPants.Size = new System.Drawing.Size(220, 187);
+            this.picPants.Size = new System.Drawing.Size(250, 217);
             this.picPants.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.picPants.TabIndex = 1;
             this.picPants.TabStop = false;

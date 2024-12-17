@@ -75,7 +75,7 @@ namespace NaufysWardrobeWinForms
             // Setup picOriHat, picOriShirt, picOriPants, picOriShoes as children of picCharacterBaseOri
             this.picOriHat.Parent = this.picCharacterBaseOri;
             this.picOriHat.BackColor = System.Drawing.Color.Transparent;
-            this.picOriHat.Location = new System.Drawing.Point(90, -48); // Position relative to parent
+            this.picOriHat.Location = new System.Drawing.Point(37, -48); // Position relative to parent
             this.picOriHat.Name = "picOriHat";
             this.picOriHat.Size = new System.Drawing.Size(260, 80);
             this.picOriHat.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -83,7 +83,7 @@ namespace NaufysWardrobeWinForms
 
             this.picOriShirt.Parent = this.picCharacterBaseOri;
             this.picOriShirt.BackColor = System.Drawing.Color.Transparent;
-            this.picOriShirt.Location = new System.Drawing.Point(80, 102); // Position relative to parent
+            this.picOriShirt.Location = new System.Drawing.Point(27, 102); // Position relative to parent
             this.picOriShirt.Name = "picOriShirt";
             this.picOriShirt.Size = new System.Drawing.Size(280, 140);
             this.picOriShirt.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -91,7 +91,7 @@ namespace NaufysWardrobeWinForms
 
             this.picOriPants.Parent = this.picCharacterBaseOri;
             this.picOriPants.BackColor = System.Drawing.Color.Transparent;
-            this.picOriPants.Location = new System.Drawing.Point(137, 203); // Position relative to parent
+            this.picOriPants.Location = new System.Drawing.Point(84, 203); // Position relative to parent
             this.picOriPants.Name = "picOriPants";
             this.picOriPants.Size = new System.Drawing.Size(165, 179);
             this.picOriPants.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -99,7 +99,7 @@ namespace NaufysWardrobeWinForms
 
             this.picOriShoes.Parent = this.picCharacterBaseOri;
             this.picOriShoes.BackColor = System.Drawing.Color.Transparent;
-            this.picOriShoes.Location = new System.Drawing.Point(90, 352); // Position relative to parent
+            this.picOriShoes.Location = new System.Drawing.Point(37, 352); // Position relative to parent
             this.picOriShoes.Name = "picOriShoes";
             this.picOriShoes.Size = new System.Drawing.Size(260, 70);
             this.picOriShoes.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -108,7 +108,7 @@ namespace NaufysWardrobeWinForms
             // Setup picPlayerHat, picPlayerShirt, picPlayerPants, picPlayerShoes as children of picCharacterBasePlayer
             this.picPlayerHat.Parent = this.picCharacterBasePlayer;
             this.picPlayerHat.BackColor = System.Drawing.Color.Transparent;
-            this.picPlayerHat.Location = new System.Drawing.Point(90, -48); // Same relative positioning for consistency
+            this.picPlayerHat.Location = new System.Drawing.Point(37, -48); // Same relative positioning for consistency
             this.picPlayerHat.Name = "picPlayerHat";
             this.picPlayerHat.Size = new System.Drawing.Size(260, 80);
             this.picPlayerHat.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -116,7 +116,7 @@ namespace NaufysWardrobeWinForms
 
             this.picPlayerShirt.Parent = this.picCharacterBasePlayer;
             this.picPlayerShirt.BackColor = System.Drawing.Color.Transparent;
-            this.picPlayerShirt.Location = new System.Drawing.Point(80, 102); // Same relative positioning for consistency
+            this.picPlayerShirt.Location = new System.Drawing.Point(27, 102); // Same relative positioning for consistency
             this.picPlayerShirt.Name = "picPlayerShirt";
             this.picPlayerShirt.Size = new System.Drawing.Size(280, 140);
             this.picPlayerShirt.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -124,7 +124,7 @@ namespace NaufysWardrobeWinForms
 
             this.picPlayerPants.Parent = this.picCharacterBasePlayer;
             this.picPlayerPants.BackColor = System.Drawing.Color.Transparent;
-            this.picPlayerPants.Location = new System.Drawing.Point(137, 203); // Same relative positioning for consistency
+            this.picPlayerPants.Location = new System.Drawing.Point(84, 203); // Same relative positioning for consistency
             this.picPlayerPants.Name = "picPlayerPants";
             this.picPlayerPants.Size = new System.Drawing.Size(165, 179);
             this.picPlayerPants.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -132,7 +132,7 @@ namespace NaufysWardrobeWinForms
 
             this.picPlayerShoes.Parent = this.picCharacterBasePlayer;
             this.picPlayerShoes.BackColor = System.Drawing.Color.Transparent;
-            this.picPlayerShoes.Location = new System.Drawing.Point(90, 352); // Same relative positioning for consistency
+            this.picPlayerShoes.Location = new System.Drawing.Point(37, 352); // Same relative positioning for consistency
             this.picPlayerShoes.Name = "picPlayerShoes";
             this.picPlayerShoes.Size = new System.Drawing.Size(260, 70);
             this.picPlayerShoes.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -141,7 +141,7 @@ namespace NaufysWardrobeWinForms
             // lblScore setup
             this.lblScore.AutoSize = true;
             this.lblScore.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold);
-            this.lblScore.Location = new System.Drawing.Point(362, 600);
+            this.lblScore.Location = new System.Drawing.Point(392, 600);
             this.lblScore.Name = "lblScore";
             this.lblScore.Size = new System.Drawing.Size(0, 32);
             this.lblScore.TabIndex = 10;
@@ -150,7 +150,7 @@ namespace NaufysWardrobeWinForms
             this.btnRestart.BackColor = System.Drawing.Color.RoyalBlue;
             this.btnRestart.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnRestart.ForeColor = System.Drawing.Color.White;
-            this.btnRestart.Location = new System.Drawing.Point(446, 590);
+            this.btnRestart.Location = new System.Drawing.Point(446, 660);
             this.btnRestart.Name = "btnRestart";
             this.btnRestart.Size = new System.Drawing.Size(109, 42);
             this.btnRestart.TabIndex = 11;
