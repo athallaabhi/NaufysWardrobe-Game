@@ -75,23 +75,23 @@ namespace NaufysWardrobeWinForms
             // Setup picOriHat, picOriShirt, picOriPants, picOriShoes as children of picCharacterBaseOri
             this.picOriHat.Parent = this.picCharacterBaseOri;
             this.picOriHat.BackColor = System.Drawing.Color.Transparent;
-            this.picOriHat.Location = new System.Drawing.Point(37, -48); // Position relative to parent
+            this.picOriHat.Location = new System.Drawing.Point(92, -48); // Position relative to parent
             this.picOriHat.Name = "picOriHat";
-            this.picOriHat.Size = new System.Drawing.Size(260, 80);
+            this.picOriHat.Size = new System.Drawing.Size(150, 150);
             this.picOriHat.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.picOriHat.TabStop = false;
 
             this.picOriShirt.Parent = this.picCharacterBaseOri;
             this.picOriShirt.BackColor = System.Drawing.Color.Transparent;
-            this.picOriShirt.Location = new System.Drawing.Point(27, 102); // Position relative to parent
+            this.picOriShirt.Location = new System.Drawing.Point(37, 112); // Position relative to parent
             this.picOriShirt.Name = "picOriShirt";
-            this.picOriShirt.Size = new System.Drawing.Size(280, 140);
+            this.picOriShirt.Size = new System.Drawing.Size(260, 120);
             this.picOriShirt.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.picOriShirt.TabStop = false;
 
             this.picOriPants.Parent = this.picCharacterBaseOri;
             this.picOriPants.BackColor = System.Drawing.Color.Transparent;
-            this.picOriPants.Location = new System.Drawing.Point(84, 203); // Position relative to parent
+            this.picOriPants.Location = new System.Drawing.Point(84, 183); // Position relative to parent
             this.picOriPants.Name = "picOriPants";
             this.picOriPants.Size = new System.Drawing.Size(165, 179);
             this.picOriPants.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -108,17 +108,17 @@ namespace NaufysWardrobeWinForms
             // Setup picPlayerHat, picPlayerShirt, picPlayerPants, picPlayerShoes as children of picCharacterBasePlayer
             this.picPlayerHat.Parent = this.picCharacterBasePlayer;
             this.picPlayerHat.BackColor = System.Drawing.Color.Transparent;
-            this.picPlayerHat.Location = new System.Drawing.Point(37, -48); // Same relative positioning for consistency
+            this.picPlayerHat.Location = new System.Drawing.Point(92, -48); // Same relative positioning for consistency
             this.picPlayerHat.Name = "picPlayerHat";
-            this.picPlayerHat.Size = new System.Drawing.Size(260, 80);
+            this.picPlayerHat.Size = new System.Drawing.Size(150, 150);
             this.picPlayerHat.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.picPlayerHat.TabStop = false;
 
             this.picPlayerShirt.Parent = this.picCharacterBasePlayer;
             this.picPlayerShirt.BackColor = System.Drawing.Color.Transparent;
-            this.picPlayerShirt.Location = new System.Drawing.Point(27, 102); // Same relative positioning for consistency
+            this.picPlayerShirt.Location = new System.Drawing.Point(37, 112); // Same relative positioning for consistency
             this.picPlayerShirt.Name = "picPlayerShirt";
-            this.picPlayerShirt.Size = new System.Drawing.Size(280, 140);
+            this.picPlayerShirt.Size = new System.Drawing.Size(260, 120);
             this.picPlayerShirt.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.picPlayerShirt.TabStop = false;
 
@@ -126,7 +126,7 @@ namespace NaufysWardrobeWinForms
             this.picPlayerPants.BackColor = System.Drawing.Color.Transparent;
             this.picPlayerPants.Location = new System.Drawing.Point(84, 203); // Same relative positioning for consistency
             this.picPlayerPants.Name = "picPlayerPants";
-            this.picPlayerPants.Size = new System.Drawing.Size(165, 179);
+            this.picPlayerPants.Size = new System.Drawing.Size(165, 159);
             this.picPlayerPants.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.picPlayerPants.TabStop = false;
 
